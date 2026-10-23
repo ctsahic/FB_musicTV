@@ -1,0 +1,1036 @@
+{
+  "rlive": {
+    "glgltz": {
+      "stream": "https://cdn.rlive.co.il/OPQ52YPKRPO0SN3N3M463T4ZY@tb.jpeg",
+      "probe": "OK",
+      "content_type": "image/jpeg"
+    },
+    "glz": {
+      "stream": "https://cdn.rlive.co.il/YFK1KYZ1TEHZGFHC3CTOU9A42@tb.png",
+      "probe": "OK",
+      "content_type": "image/png"
+    },
+    "88fm": {
+      "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/KAN_88.mp3?dist=rlive",
+      "probe": "OK",
+      "content_type": "audio/mpeg"
+    },
+    "reshet-aleph": {
+      "stream": "https://cdn.rlive.co.il/FW9ZX8YJIXMACQB6XJERA4UBM@tb.png",
+      "probe": "OK",
+      "content_type": "image/png"
+    },
+    "reshet-bet": {
+      "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/KAN_BET.mp3?dist=rlive",
+      "probe": "OK",
+      "content_type": "audio/mpeg"
+    },
+    "reshet-gimmel": {
+      "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/KAN_GIMMEL.mp3?dist=rlive",
+      "probe": "OK",
+      "content_type": "audio/mpeg"
+    },
+    "kol-israel-in-arabic": {
+      "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_MAKAN.mp3?dist=rlive",
+      "probe": "OK",
+      "content_type": "audio/mpeg"
+    },
+    "kol-hamusic": {
+      "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/KAN_KOL_HAMUSICA.mp3?dist=rlive",
+      "probe": "OK",
+      "content_type": "audio/mpeg"
+    },
+    "90fm": {
+      "stream": "https://cdn.cybercdn.live/Emtza_Haderech/Live_Audio/icecast.audio",
+      "probe": "OK",
+      "content_type": "audio/aac"
+    },
+    "91fm": {
+      "stream": "https://cdn.cybercdn.live/Lev_Hamedina/Audio/icecast.audio",
+      "probe": "OK",
+      "content_type": "audio/mpeg"
+    },
+    "radio-99fm": {
+      "stream": "https://cdn.rlive.co.il/VJULPMZIBILYCPTFYWMV9VJAU@tb.png",
+      "probe": "OK",
+      "content_type": "image/png"
+    },
+    "100fm": {
+      "stream": "https://cdn.cybercdn.live/Radios_100FM/Audio/playlist.m3u8",
+      "probe": "OK",
+      "content_type": "application/vnd.apple.mpegurl"
+    },
+    "101fm": {
+      "stream": "https://cdn.cybercdn.live/JerusalemRadio/Live/icecast.audio",
+      "probe": "OK",
+      "content_type": "audio/aac"
+    },
+    "kol-hayam-haadom-102fm": {
+      "stream": "https://cdn.rlive.co.il/31LM500DP9LLECW3HQ904GRTL@tb.jpg",
+      "probe": "OK",
+      "content_type": "image/jpeg"
+    },
+    "103fm": {
+      "stream": "https://cdn.cybercdn.live/103FM/Live/icecast.audio",
+      "probe": "OK",
+      "content_type": "audio/mpeg"
+    },
+    "kol-ramat-hasharon-106fm": {
+      "stream": "https://cdn.rlive.co.il/01M2Q2PWT3FXCAXTEX2S895KJW@tb.jpg",
+      "probe": "FAIL",
+      "content_type": ""
+    },
+    "radio-kol-netanya": {
+      "stream": "https://icecast.live/hls/kol_netanya/rkn_hls.m3u8",
+      "probe": "OK",
+      "content_type": "application/x-mpegurl"
+    },
+    "radio-haifa-107-5fm": {
+      "stream": "https://cdn.rlive.co.il/01K1667RMTN5B2HT0TH08VZK4N@tb.jpg",
+      "probe": "OK",
+      "content_type": "image/jpeg"
+    },
+    "radio-eol": {
+      "stream": "https://eol-live.cdnwiz.com/eol/eolsite/icecast.audio",
+      "probe": "OK",
+      "content_type": "audio/mpeg"
+    },
+    "kolhalev": {
+      "stream": "https://cdn.rlive.co.il/09L4M8X5T58RT0M9EEEZ6MXEF@tb.jpeg",
+      "probe": "OK",
+      "content_type": "image/jpeg"
+    },
+    "radio-beat": {
+      "stream": "https://cdn.rlive.co.il/EPYJY69P4WZL7ZSQC2PUQNGI4@tb.png",
+      "probe": "OK",
+      "content_type": "image/png"
+    },
+    "radio-menta": {
+      "stream": "https://cdn.rlive.co.il/BW067A4S6IK6HTU6UD3UPR7ID@tb.png",
+      "probe": "OK",
+      "content_type": "image/png"
+    },
+    "radio-yasoo": {
+      "stream": "https://cdn.rlive.co.il/X817C9MVWEUSDVIR5CO448KEG@tb.jpeg",
+      "probe": "OK",
+      "content_type": "image/jpeg"
+    },
+    "radio-idan": {
+      "stream": "https://live.ecast.co.il/stream/radioneto1",
+      "probe": "OK",
+      "content_type": "audio/mpeg"
+    },
+    "noshmim-mizrahit": {
+      "stream": "https://cdn.rlive.co.il/IPOXDD1LUW38URM2EEKQHAEH5@tb.png",
+      "probe": "OK",
+      "content_type": "image/png"
+    },
+    "radio-inn-7": {
+      "stream": "https://cdn.rlive.co.il/1PHV5SAXLFSFVS4FEJNIEWXHL@tb.jpg",
+      "probe": "OK",
+      "content_type": "image/jpeg"
+    },
+    "93fm": {
+      "stream": "https://cdn.rlive.co.il/KEZ5VEXRDY1WNT4NBQHS0AOKE@tb.jpg",
+      "probe": "OK",
+      "content_type": "image/jpeg"
+    },
+    "radio-mevaser-tov": {
+      "stream": "https://cdn.rlive.co.il/WFCTGQE6SI8LDYNBNKLU9GZFD@tb.png",
+      "probe": "OK",
+      "content_type": "image/png"
+    },
+    "radio-breslev": {
+      "stream": "https://cdn.rlive.co.il/XRMBGSYEJVLA2RUA3BMSPXMQT@tb.png",
+      "probe": "OK",
+      "content_type": "image/png"
+    },
+    "kolhaemet": {
+      "stream": "https://cdn.rlive.co.il/CRX8D6HLIBL5I1NZGRT8WN5A9@tb.jpeg",
+      "probe": "OK",
+      "content_type": "image/jpeg"
+    },
+    "reshet-moreshet": {
+      "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/KAN_MORESHET.mp3?dist=rlive",
+      "probe": "OK",
+      "content_type": "audio/mpeg"
+    },
+    "radio-2000": {
+      "stream": "https://cdn.cybercdn.live/Radio2000/MP3/icecast.audio",
+      "probe": "OK",
+      "content_type": "audio/mpeg"
+    },
+    "radio-darom-9697fm": {
+      "stream": "https://cdn.cybercdn.live/Darom_97FM/Live/icecast.audio",
+      "probe": "OK",
+      "content_type": "audio/mpeg"
+    },
+    "reka": {
+      "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/KAN_REKA.mp3?dist=rlive",
+      "probe": "OK",
+      "content_type": "audio/mpeg"
+    },
+    "ashams": {
+      "stream": "https://cdna.streamgates.net/Ashams/Live/icecast.audio",
+      "probe": "OK",
+      "content_type": "audio/aac"
+    },
+    "radio-dvash-yevani": {
+      "stream": "https://cdn.rlive.co.il/066QTNP0RQQVARFSSZLXZXO7E@tb.jpg",
+      "probe": "OK",
+      "content_type": "image/jpeg"
+    },
+    "galey-israel": {
+      "stream": "https://cdn.cybercdn.live/Galei_Israel/Live/icecast.audio",
+      "probe": "OK",
+      "content_type": "audio/mpeg"
+    },
+    "radio106": {
+      "stream": "https://ariel.icecast.live/hls/1/stream.m3u8",
+      "probe": "OK",
+      "content_type": "application/x-mpegurl"
+    },
+    "radio-eshel": {
+      "stream": "https://cdn.rlive.co.il/KP7EKSGIH0XM6A64G5P8UZGYR@tb.jpeg",
+      "probe": "OK",
+      "content_type": "image/jpeg"
+    },
+    "radio-idan-dati": {
+      "stream": "https://live.ecast.co.il/stream/radioneto2",
+      "probe": "OK",
+      "content_type": "audio/mpeg"
+    },
+    "102fm": {
+      "stream": "https://cdn.rlive.co.il/01KDJAS3CBTT7EPH4GY79HXQ83@tb.jpg",
+      "probe": "OK",
+      "content_type": "image/jpeg"
+    },
+    "kol-barama": {
+      "stream": "https://cdn.cybercdn.live/Kol_Barama/Live_Audio/icecast.audio",
+      "probe": "OK",
+      "content_type": "audio/aac"
+    },
+    "pervoe-radio": {
+      "stream": "https://cdn.cybercdn.live/Pervoia/Audio/playlist.m3u8",
+      "probe": "OK",
+      "content_type": "application/vnd.apple.mpegurl"
+    },
+    "avtoradio": {
+      "stream": "https://cdn.rlive.co.il/WQSB7RYYYIFT5CO77PKD6MUW9@tb.png",
+      "probe": "OK",
+      "content_type": "image/png"
+    },
+    "abc": {
+      "stream": "https://cdn.rlive.co.il/45VLJLU40424P3VB5FN5B4XKN@tb.png",
+      "probe": "OK",
+      "content_type": "image/png"
+    },
+    "active-radio-90fm": {
+      "stream": "https://cdn.rlive.co.il/MFSINERJ5E955ZEB1IVQ92E19@tb.jpeg",
+      "probe": "OK",
+      "content_type": "image/jpeg"
+    },
+    "galilee-radio": {
+      "stream": "https://cdn.rlive.co.il/ZG7393BTIZA9NBVLZGL94VXKO@tb.jpeg",
+      "probe": "OK",
+      "content_type": "image/jpeg"
+    },
+    "joint": {
+      "stream": "https://cdn.rlive.co.il/01KY6JG5GK88GJ63SX187MBPX6@tb.png",
+      "probe": "OK",
+      "content_type": "image/png"
+    },
+    "radio-hidabroot": {
+      "stream": "https://cdn.cybercdn.live/HidabrootIL/Live97/playlist.m3u8",
+      "probe": "OK",
+      "content_type": "application/vnd.apple.mpegurl"
+    },
+    "radio-dante": {
+      "stream": "https://cdn.rlive.co.il/VEAP726S2BEEOCBRA3GOU3VGN@tb.png",
+      "probe": "OK",
+      "content_type": "image/png"
+    },
+    "classic-fm": {
+      "stream": "https://cdn.rlive.co.il/XE0GTU1AIK8HNHLK33H3Y46L6@tb.png",
+      "probe": "OK",
+      "content_type": "image/png"
+    },
+    "radio-kol-izrael": {
+      "stream": "https://cdn.rlive.co.il/LUCQ4SGN5QVGYZG1R7UOAM93R@tb.jpg",
+      "probe": "OK",
+      "content_type": "image/jpeg"
+    },
+    "kol-hanegev": {
+      "stream": "https://cdn.rlive.co.il/VVQVKX1XSKBLP331PN1GZ19JX@tb.jpg",
+      "probe": "OK",
+      "content_type": "image/jpeg"
+    },
+    "kahol-yavan": {
+      "stream": "https://icecast.live/livegreece_aac",
+      "probe": "OK",
+      "content_type": "audio/aac"
+    },
+    "1062fm": {
+      "stream": "https://cdn.rlive.co.il/44Z5WG2G8I41CBQZCWS4PY0ON@tb.jpg",
+      "probe": "OK",
+      "content_type": "image/jpeg"
+    },
+    "idobi": {
+      "stream": "https://cdn.rlive.co.il/DFXIZLRODMKI6H5BF4X4KZMF1@tb.png",
+      "probe": "OK",
+      "content_type": "image/png"
+    },
+    "radio-ran": {
+      "stream": "https://cdn.rlive.co.il/YBR3K1LZ81BQYLTKRER8BMKHU@tb.png",
+      "probe": "OK",
+      "content_type": "image/png"
+    },
+    "radio-b-b-vostok": {
+      "stream": "https://cdn.rlive.co.il/KFFU87E22E3K7FT6JHZAW10NK@tb.png",
+      "probe": "OK",
+      "content_type": "image/png"
+    },
+    "ah-fm": {
+      "stream": "https://cdn.rlive.co.il/01JWEB687S26QCVY2Y9KY3B6YA@tb.jpg",
+      "probe": "OK",
+      "content_type": "image/jpeg"
+    },
+    "radio-france-international": {
+      "stream": "https://cdn.rlive.co.il/SJO2CJP4QMLMOAG2GPU54ZIUL@tb.jpeg",
+      "probe": "OK",
+      "content_type": "image/jpeg"
+    },
+    "96fm": {
+      "stream": "https://cdn.cybercdn.live/Kol_Rega/Live_Audio/icecast.audio",
+      "probe": "OK",
+      "content_type": "audio/mpeg"
+    },
+    "radio-nova": {
+      "stream": "https://cdn.rlive.co.il/3UCVC62F86LFVC0AIFW9LD489@tb.png",
+      "probe": "OK",
+      "content_type": "image/png"
+    },
+    "classical-king-fm": {
+      "stream": "https://cdn.rlive.co.il/ZI7WBRJ1QYS946TCTON45C2KE@tb.png",
+      "probe": "OK",
+      "content_type": "image/png"
+    },
+    "teder": {
+      "stream": "https://cdn.rlive.co.il/16GLLT44H25UX49IO43R2607W@tb.jpeg",
+      "probe": "OK",
+      "content_type": "image/jpeg"
+    },
+    "clube-fm": {
+      "stream": "https://cdn.rlive.co.il/124THOY6I0GQ6L86OODJPHZVZ@tb.png",
+      "probe": "OK",
+      "content_type": "image/png"
+    },
+    "917xfm": {
+      "stream": "https://cdn.rlive.co.il/01K5PCQHP4SDKGHKL2XLV6ZOE@tb.png",
+      "probe": "OK",
+      "content_type": "image/png"
+    },
+    "105-network": {
+      "stream": "https://icecast.unitedradio.it/Radio105.mp3",
+      "probe": "OK",
+      "content_type": "audio/mpeg"
+    },
+    "capital-radio": {
+      "stream": "https://cdn.rlive.co.il/08RVHL3MPAWWN222AL3HU71K5@tb.png",
+      "probe": "OK",
+      "content_type": "image/png"
+    },
+    "love-songs-radio": {
+      "stream": "https://cdn.rlive.co.il/SZF3OBVGVUVW7LG7WOM69ANY7@tb.jpeg",
+      "probe": "OK",
+      "content_type": "image/jpeg"
+    },
+    "radio-darom-1015fm": {
+      "stream": "https://cdn.cybercdn.live/Darom_1015FM/Live/icecast.audio",
+      "probe": "OK",
+      "content_type": "audio/mpeg"
+    },
+    "hamesh-99-5": {
+      "stream": "https://cdn.rlive.co.il/WBH9PL0V31IL8CXGMS45HD9YL@tb.png",
+      "probe": "OK",
+      "content_type": "image/png"
+    },
+    "radio5": {
+      "stream": "https://cdn.rlive.co.il/01KE7C0GNH9WM4HK453TWPECWT@tb.jpg",
+      "probe": "OK",
+      "content_type": "image/jpeg"
+    },
+    "radio-sol": {
+      "stream": "https://cdn.rlive.co.il/01KE4KSW7DYB629HYWKW0GC43T@tb.jpg",
+      "probe": "OK",
+      "content_type": "image/jpeg"
+    },
+    "radio-nina": {
+      "stream": "https://cdn.rlive.co.il/1YX404DDRIULQOKZHQXB7A0GZ@tb.png",
+      "probe": "OK",
+      "content_type": "image/png"
+    },
+    "radio-shabazi": {
+      "stream": "https://cdn.rlive.co.il/SQKAYROCUAU7K4MZYEKEJ7HFR@tb.png",
+      "probe": "OK",
+      "content_type": "image/png"
+    },
+    "kzradio": {
+      "stream": "https://kzradio.mediacast.co.il/kzradio_live/kzradio/icecast.audio",
+      "probe": "OK",
+      "content_type": "audio/mpeg"
+    },
+    "klub-radio": {
+      "stream": "https://cdn.rlive.co.il/0VEQNFGIEVYEYPDB2I1DVXURD@tb.png",
+      "probe": "OK",
+      "content_type": "image/png"
+    },
+    "joint-radio-blues": {
+      "stream": "https://cdn.rlive.co.il/01KY6KFCWGEK3A96B2MJQSPBVF@tb.png",
+      "probe": "OK",
+      "content_type": "image/png"
+    },
+    "ambient-sleeping-pill": {
+      "stream": "https://cdn.rlive.co.il/V4AOLB3MF5QTQSW0JFU0O3KCD@tb.png",
+      "probe": "OK",
+      "content_type": "image/png"
+    },
+    "toker-fm": {
+      "stream": "https://cdn.rlive.co.il/UELAKGHAKA3HJC7T7R8Y82H4H@tb.png",
+      "probe": "OK",
+      "content_type": "image/png"
+    },
+    "69fm": {
+      "stream": "https://live.ecast.co.il/stream/69fm",
+      "probe": "OK",
+      "content_type": "audio/mpeg"
+    },
+    "fun-music-69": {
+      "stream": "https://cdn.rlive.co.il/SUNIT92HTINK5EPW5G3NXBQ7F@tb.png",
+      "probe": "OK",
+      "content_type": "image/png"
+    },
+    "radio-breslev-kol-hanahal": {
+      "stream": "https://cdn.rlive.co.il/89LPALY5JDRT5K6YHBAGYVVPB@tb.png",
+      "probe": "OK",
+      "content_type": "image/png"
+    },
+    "radio-mozart": {
+      "stream": "https://cdn.rlive.co.il/01JW6ZNB5MWH4SEVZE42W8JGYV@tb.jpg",
+      "probe": "OK",
+      "content_type": "image/jpeg"
+    },
+    "radio-kol-hatzafon": {
+      "stream": "https://live.ecast.co.il/stream/khz",
+      "probe": "OK",
+      "content_type": "audio/mpeg"
+    },
+    "jazz24": {
+      "stream": "https://cdn.rlive.co.il/IZ8E7S1R1CBS6U79CQ9UPV5RL@tb.jpg",
+      "probe": "OK",
+      "content_type": "image/jpeg"
+    },
+    "heart-london": {
+      "stream": "https://cdn.rlive.co.il/EDESZNLK9SHBRG1V92K8PA3MQ@tb.jpeg",
+      "probe": "OK",
+      "content_type": "image/jpeg"
+    },
+    "kol-galim": {
+      "stream": "https://live.ecast.co.il/stream/galimlive",
+      "probe": "OK",
+      "content_type": "audio/mpeg"
+    },
+    "kol-rishonim": {
+      "stream": "https://live.ecast.co.il/stream/1062",
+      "probe": "OK",
+      "content_type": "audio/mpeg"
+    },
+    "radio-lev-haeir": {
+      "stream": "https://cdn.rlive.co.il/WHA4S6C6U65I9PW8TZFY24A11@tb.jpg",
+      "probe": "OK",
+      "content_type": "image/jpeg"
+    },
+    "radio-mania": {
+      "stream": "https://cdn.rlive.co.il/79ZSQXRB8MC7CXB0J10VTABOS@tb.png",
+      "probe": "OK",
+      "content_type": "image/png"
+    },
+    "kol-california": {
+      "stream": "https://cdn.rlive.co.il/0M8DVNTU1ZV1U9AAC9ZBC2ML7@tb.png",
+      "probe": "OK",
+      "content_type": "image/png"
+    },
+    "radio-angelika": {
+      "stream": "https://live.ecast.co.il/stream/angelika",
+      "probe": "OK",
+      "content_type": "audio/aacp"
+    },
+    "joint-radio-beat": {
+      "stream": "https://cdn.rlive.co.il/01KY6KJ9ETAJTZ825WKB8B6PWZ@tb.png",
+      "probe": "OK",
+      "content_type": "image/png"
+    },
+    "kol-hashfela": {
+      "stream": "https://cdn.rlive.co.il/HVBT67NQOO9FP7IFVH4AGGCWA@tb.jpeg",
+      "probe": "OK",
+      "content_type": "image/jpeg"
+    },
+    "radio-kol-hakinneret": {
+      "stream": "https://cdn.rlive.co.il/ZPS8CYZG2N400H57WS8DAO6NX@tb.jpeg",
+      "probe": "OK",
+      "content_type": "image/jpeg"
+    },
+    "kol-ness-ziona": {
+      "stream": "http://kolness.livecast.co.il/liveness",
+      "probe": "OK",
+      "content_type": "audio/mpeg"
+    },
+    "dudi-fm": {
+      "stream": "https://live.ecast.co.il/stream/dudifm",
+      "probe": "OK",
+      "content_type": "audio/mpeg"
+    },
+    "harokdim": {
+      "stream": "https://live.ecast.co.il:8022/stream",
+      "probe": "OK",
+      "content_type": "audio/mpeg"
+    },
+    "104-5-fm": {
+      "stream": "https://cdn.cybercdn.live/Tzafon_NonStop/Live_Audio/icecast.audio",
+      "probe": "OK",
+      "content_type": "audio/aac"
+    },
+    "radio-one": {
+      "stream": "https://cdn.rlive.co.il/4V6IRD7F17HGI5O7Q3KEFD8K4@tb.png",
+      "probe": "OK",
+      "content_type": "image/png"
+    },
+    "rai-radio-1": {
+      "stream": "https://cdn.rlive.co.il/5MMBB9CTC5QFYAF4KT5J53HIA@tb.jpg",
+      "probe": "OK",
+      "content_type": "image/jpeg"
+    },
+    "jewish-radio-kol-hai": {
+      "stream": "https://cdn.rlive.co.il/PJ06OR3WF8OBQWHUJ1PQU9SUR@tb.jpg",
+      "probe": "OK",
+      "content_type": "image/jpeg"
+    },
+    "malchut-pe-mehadrin-radio": {
+      "stream": "https://cdn.rlive.co.il/S1YWU0JV6IZ0BSMLUCIF3QUJL@tb.jpeg",
+      "probe": "OK",
+      "content_type": "image/jpeg"
+    },
+    "radio-hamizrah": {
+      "stream": "https://cdn.rlive.co.il/01KQPJ5SYQWZZ15Y2JHE8NZ1E1@tb.jpg",
+      "probe": "OK",
+      "content_type": "image/jpeg"
+    },
+    "mc-doualiya": {
+      "stream": "https://cdn.rlive.co.il/79ZNZAQO4HKBG5PAVGVNPWVH9@tb.jpeg",
+      "probe": "OK",
+      "content_type": "image/jpeg"
+    },
+    "radio-setareh": {
+      "stream": "https://cdn.rlive.co.il/VI8LVKPXVVZN3Y2NWSNO5KKON@tb.png",
+      "probe": "OK",
+      "content_type": "image/png"
+    },
+    "ketzev-yamtichoni": {
+      "stream": "https://cdn.rlive.co.il/A74DNTHK2ML37A5VF7HUS3OJW@tb.jpeg",
+      "probe": "OK",
+      "content_type": "image/jpeg"
+    },
+    "jewish-music-stream": {
+      "stream": "https://cdn.rlive.co.il/PW167EE0USETH5NTOKBNE96AH@tb.jpg",
+      "probe": "OK",
+      "content_type": "image/jpeg"
+    },
+    "hevrati": {
+      "stream": "https://live.ecast.co.il/stream/hevrati",
+      "probe": "OK",
+      "content_type": "audio/mpeg"
+    },
+    "radio-kol-simcha": {
+      "stream": "https://cdn.rlive.co.il/YPRRYKILUPMM6ME4ATT4EY99Z@tb.png",
+      "probe": "OK",
+      "content_type": "image/png"
+    },
+    "glglz-med": {
+      "stream": "https://cdn.rlive.co.il/SUKBTUBOS22HBDZ62VM5TB7AY@tb.png",
+      "probe": "OK",
+      "content_type": "image/png"
+    },
+    "katzrin": {
+      "stream": "https://cdn.rlive.co.il/AH2KN20QUQ6EOFF70Z88DE43S@tb.png",
+      "probe": "OK",
+      "content_type": "image/png"
+    },
+    "antenne-salzburg": {
+      "stream": "https://cdn.rlive.co.il/MQJIC06CDATT4P6TKVI08E7ZD@tb.png",
+      "probe": "OK",
+      "content_type": "image/png"
+    },
+    "efi-logue": {
+      "stream": "https://cdn.rlive.co.il/Y91GWYWYM8XY35GNZ3KHW8MDV@tb.png",
+      "probe": "OK",
+      "content_type": "image/png"
+    },
+    "mirchi": {
+      "stream": "https://cdn.rlive.co.il/01KRJJ8TCNKZ77MRXZ8SNARNQH@tb.jpg",
+      "probe": "OK",
+      "content_type": "image/jpeg"
+    },
+    "los40": {
+      "stream": "https://27343.live.streamtheworld.com/LOS40_COLOMBIAAAC.aac",
+      "probe": "OK",
+      "content_type": "audio/aacp"
+    },
+    "lux-fm": {
+      "stream": "https://cdn.rlive.co.il/KVGZG6DMQ4MDJ17QW4L4EVSPY@tb.jpg",
+      "probe": "OK",
+      "content_type": "image/jpeg"
+    },
+    "martit": {
+      "stream": "https://cdn.rlive.co.il/QFGT2RDPAXIQUHIUC8V6Z9P7V@tb.png",
+      "probe": "OK",
+      "content_type": "image/png"
+    },
+    "derti": {
+      "stream": "https://cdn.rlive.co.il/SW1EKAZCOBNV0MZ6R60A4MSE2@tb.png",
+      "probe": "OK",
+      "content_type": "image/png"
+    },
+    "zlilei-hakrayot": {
+      "stream": "https://cdn.rlive.co.il/01KMCVG8BZYB95G6V3XYW7Y15F@tb.jpg",
+      "probe": "OK",
+      "content_type": "image/jpeg"
+    },
+    "radio-sahar": {
+      "stream": "https://live.ecast.co.il/stream/sahar",
+      "probe": "OK",
+      "content_type": "audio/mpeg"
+    },
+    "ivri6": {
+      "stream": "https://cdn.rlive.co.il/MJ67BQUY3RP1ZQ7DCY85IHMHU@tb.png",
+      "probe": "OK",
+      "content_type": "image/png"
+    },
+    "teen-buzz": {
+      "stream": "https://cdn.rlive.co.il/2NJF5XP5BMNAQEKW3KHKEPH1S@tb.png",
+      "probe": "OK",
+      "content_type": "image/png"
+    },
+    "radioplus": {
+      "stream": "https://cdn.rlive.co.il/YPXMA31A9E75WQB03LQFD1TUN@tb.png",
+      "probe": "OK",
+      "content_type": "image/png"
+    },
+    "zerock": {
+      "stream": "https://icecast.live/zerock",
+      "probe": "OK",
+      "content_type": "audio/mpeg"
+    },
+    "levisrael": {
+      "stream": "https://cdn.rlive.co.il/GS0RUARE7L8559BMB8RGOSBZA@tb.jpeg",
+      "probe": "OK",
+      "content_type": "image/jpeg"
+    },
+    "americas-country": {
+      "stream": "https://cdn.rlive.co.il/THUMIZZL0V53V435UK3VK4TNH@tb.png",
+      "probe": "OK",
+      "content_type": "image/png"
+    },
+    "kol-halacha": {
+      "stream": "https://cdn.rlive.co.il/01KTTNJG75TAA6A0JA4P1GEQ9D@tb.jpg",
+      "probe": "OK",
+      "content_type": "image/jpeg"
+    },
+    "hatahana": {
+      "stream": "https://cdn.cybercdn.live/Hatahana_1015/Live_Audio/icecast.audio",
+      "probe": "OK",
+      "content_type": "audio/aac"
+    },
+    "lolfmradio": {
+      "stream": "https://live.ecast.co.il/stream/69fm/lolfm",
+      "probe": "OK",
+      "content_type": "audio/mpeg"
+    },
+    "radio-kesem": {
+      "stream": "https://cdn.cybercdn.live/Kessem_Radio/live/icecast.audio",
+      "probe": "OK",
+      "content_type": "audio/mpeg"
+    },
+    "radio-savta": {
+      "stream": "https://cdn.rlive.co.il/S2M90SJB6MEFIUBP6ZHZL8CCP@tb.jpeg",
+      "probe": "OK",
+      "content_type": "image/jpeg"
+    },
+    "europa-fm-romania": {
+      "stream": "https://cdn.rlive.co.il/OLFENNUTH8K3P5T8CLBKUH1AB@tb.jpg",
+      "probe": "OK",
+      "content_type": "image/jpeg"
+    },
+    "radio-538": {
+      "stream": "https://27793.live.streamtheworld.com/RADIO538.mp3",
+      "probe": "OK",
+      "content_type": "audio/mpeg"
+    },
+    "salseo-radio": {
+      "stream": "https://cdn.rlive.co.il/L3P11I6178S4W7LK0PVM443UO@tb.png",
+      "probe": "OK",
+      "content_type": "image/png"
+    },
+    "5radio": {
+      "stream": "https://cdn.rlive.co.il/E3CP0A3YWDHOL10X96GN13UYH@tb.jpeg",
+      "probe": "OK",
+      "content_type": "image/jpeg"
+    },
+    "kol-hagolan": {
+      "stream": "https://cdn.rlive.co.il/T2JC2CCFSBMPIX5QCHBK126EU@tb.png",
+      "probe": "OK",
+      "content_type": "image/png"
+    },
+    "radio-kahol-lavan": {
+      "stream": "https://cdn.rlive.co.il/VIIACHOJX815Z355CD8S44NO0@tb.jpg",
+      "probe": "OK",
+      "content_type": "image/jpeg"
+    },
+    "up2dance": {
+      "stream": "https://icecast.live/up2dance",
+      "probe": "OK",
+      "content_type": "audio/aac"
+    },
+    "nas": {
+      "stream": "https://cdna.streamgates.net/RadioNas/Live-Audio/icecast.audio",
+      "probe": "OK",
+      "content_type": "audio/aac"
+    },
+    "the-best": {
+      "stream": "https://cdna.streamgates.net/TheBest/live/playlist.m3u8",
+      "probe": "OK",
+      "content_type": "application/vnd.apple.mpegurl"
+    },
+    "nostalgia-963fm": {
+      "stream": "https://cdna.streamgates.net/radios-audio/Nostalgia_963fm/playlist.m3u8?provider=rlive",
+      "probe": "OK",
+      "content_type": "application/vnd.apple.mpegurl"
+    },
+    "107-6": {
+      "stream": "https://cdn.cybercdn.live/Kol_Barama/Music/icecast.audio",
+      "probe": "OK",
+      "content_type": "audio/aac"
+    },
+    "israel-news-talk-radio": {
+      "stream": "https://cdn.rlive.co.il/Y094D36DEMP3KHKQI8EXKRDXR@tb.png",
+      "probe": "OK",
+      "content_type": "image/png"
+    },
+    "livetorani": {
+      "stream": "https://cdn.rlive.co.il/U2FUUUTJ3S3OK8XY34K8DMQH8@tb.jpeg",
+      "probe": "OK",
+      "content_type": "image/jpeg"
+    },
+    "streetstune-radio": {
+      "stream": "https://live.ecast.co.il/stream/streetstune",
+      "probe": "OK",
+      "content_type": "audio/mpeg"
+    },
+    "hitsil": {
+      "stream": "https://icecast.live/hitsil",
+      "probe": "OK",
+      "content_type": "audio/aac"
+    },
+    "kol-ramah": {
+      "stream": "https://icecast.live/kolramah_aac",
+      "probe": "OK",
+      "content_type": "audio/aac"
+    },
+    "knesset-channel": {
+      "stream": "https://cdn.rlive.co.il/JL80J86DTVVJ57EL58TA37NP9@tb.jpeg",
+      "probe": "OK",
+      "content_type": "image/jpeg"
+    },
+    "kankids": {
+      "stream": "https://cdn.rlive.co.il/MP0WUEHFP1FBBFKHK7BINV21J@tb.jpg",
+      "probe": "OK",
+      "content_type": "image/jpeg"
+    },
+    "israelivoiceradio": {
+      "stream": "https://icecast.live/ivr",
+      "probe": "OK",
+      "content_type": "audio/aac"
+    },
+    "radiofix2525": {
+      "stream": "https://cdn.rlive.co.il/3IPEZ1FSFD527V8SDJ4RI2MDV@tb.png",
+      "probe": "OK",
+      "content_type": "image/png"
+    },
+    "capital-fm-london": {
+      "stream": "https://cdn.rlive.co.il/DSWGGDDWC04CJK2T2V5Z3V8B8@tb.jpg",
+      "probe": "OK",
+      "content_type": "image/jpeg"
+    },
+    "radio-dikaun-mizrahi": {
+      "stream": "https://cdn.rlive.co.il/IXFGZNJOBZHRUWRPTOFY3E2SL@tb.jpg",
+      "probe": "OK",
+      "content_type": "image/jpeg"
+    },
+    "radio-krayot-fm": {
+      "stream": "https://live.ecast.co.il/stream/krayotfm",
+      "probe": "OK",
+      "content_type": "audio/mpeg"
+    },
+    "neurim-fm": {
+      "stream": "https://icecast.live/hls/neurimfm/live.m3u8",
+      "probe": "OK",
+      "content_type": "application/x-mpegurl"
+    },
+    "radio-indie-israel": {
+      "stream": "https://cdn.rlive.co.il/3L3UGSOQVR5GZ6A3N1UG8RFGD@tb.jpg",
+      "probe": "OK",
+      "content_type": "image/jpeg"
+    },
+    "metsiot-israeli": {
+      "stream": "https://cdn.rlive.co.il/WNQ1YNKMI3J3DP6NC15AQ1E6B@tb.jpg",
+      "probe": "OK",
+      "content_type": "image/jpeg"
+    },
+    "metsiot": {
+      "stream": "https://cdn.rlive.co.il/H4EB3RW2U2W114R78M49MCH8U@tb.jpg",
+      "probe": "OK",
+      "content_type": "image/jpeg"
+    },
+    "radio-azori": {
+      "stream": "https://live.ecast.co.il/stream/69fm/azori",
+      "probe": "OK",
+      "content_type": "audio/mpeg"
+    },
+    "franceinfo": {
+      "stream": "https://icecast.radiofrance.fr/franceinfo-midfi.mp3",
+      "probe": "OK",
+      "content_type": "audio/mpeg"
+    },
+    "radio-nahariya": {
+      "stream": "https://cdn.rlive.co.il/XPXTIU767CPPPI11YGGZHQ1LE@tb.jpg",
+      "probe": "OK",
+      "content_type": "image/jpeg"
+    },
+    "kan-11": {
+      "stream": "https://cdn.rlive.co.il/E2KIY0MDIQ0KQKST45NLET486@tb.jpg",
+      "probe": "OK",
+      "content_type": "image/jpeg"
+    },
+    "smooth-70s": {
+      "stream": "https://cdn.rlive.co.il/FWOVAVBQCJ5G127R0V6896M2A@tb.jpg",
+      "probe": "OK",
+      "content_type": "image/jpeg"
+    },
+    "katzav-mizrahit": {
+      "stream": "https://cdn.rlive.co.il/01KMV2K69BF69NTZX7HW60P0QG@tb.jpg",
+      "probe": "OK",
+      "content_type": "image/jpeg"
+    },
+    "n12": {
+      "stream": "http://ff_engine.streamgates.net/Ch10News.mp3",
+      "probe": "OK",
+      "content_type": "audio/mpeg"
+    },
+    "bgu-radio": {
+      "stream": "https://cdn.rlive.co.il/2IO0I4FWLR1SHK85BNSM9WK9P@tb.jpg",
+      "probe": "OK",
+      "content_type": "image/jpeg"
+    },
+    "kol-simcha-light": {
+      "stream": "https://cdn.rlive.co.il/0O9XZRXSRWU8GEUPH5OAH56R8@tb.jpg",
+      "probe": "OK",
+      "content_type": "image/jpeg"
+    },
+    "kol-simcha-hits": {
+      "stream": "https://cdn.rlive.co.il/PZ8F8ZN2P5GWF762QWEJFGHF8@tb.jpg",
+      "probe": "OK",
+      "content_type": "image/jpeg"
+    },
+    "sumba887": {
+      "stream": "https://cdn.rlive.co.il/GBFEU9HUKA0RV8C7WPN35KHJV@tb.jpg",
+      "probe": "OK",
+      "content_type": "image/jpeg"
+    },
+    "musayof": {
+      "stream": "https://cdn.rlive.co.il/8JMRSUSJH41QK0F5HIOCOSS7A@tb.jpg",
+      "probe": "OK",
+      "content_type": "image/jpeg"
+    },
+    "carmelfm": {
+      "stream": "https://cdn.rlive.co.il/01KZV6F22GNGQ0V0EJ8R4B8RAM@tb.jpg",
+      "probe": "OK",
+      "content_type": "image/jpeg"
+    },
+    "i24news": {
+      "stream": "https://cdn.rlive.co.il/JQYMO1H5HLZ21UJ2OUDWHEWL5@tb.jpg",
+      "probe": "OK",
+      "content_type": "image/jpeg"
+    },
+    "hamizrahit": {
+      "stream": "https://live.ecast.co.il/stream/mizrahit",
+      "probe": "OK",
+      "content_type": "audio/mpeg"
+    },
+    "al-hagal": {
+      "stream": "https://cdn.rlive.co.il/01JH82AS57BQ45SC33Z2254FED@tb.jpg",
+      "probe": "OK",
+      "content_type": "image/jpeg"
+    },
+    "kolyaldeyisrael": {
+      "stream": "https://cdn.rlive.co.il/01JH834AD5QWJAHSEQG4DDB292@tb.jpg",
+      "probe": "OK",
+      "content_type": "image/jpeg"
+    },
+    "daat-rabbeinu": {
+      "stream": "https://cdn.rlive.co.il/01JHD49BEDBVP188E4QPDW36Q7@tb.jpg",
+      "probe": "OK",
+      "content_type": "image/jpeg"
+    },
+    "halachot": {
+      "stream": "https://cdn.rlive.co.il/01JHD4SN268PQZCJ851P3X35A1@tb.jpg",
+      "probe": "OK",
+      "content_type": "image/jpeg"
+    },
+    "shorts": {
+      "stream": "https://cdn.rlive.co.il/01JHD5DHJMEDKC451AJ1G756M9@tb.jpg",
+      "probe": "OK",
+      "content_type": "image/jpeg"
+    },
+    "har-carmel": {
+      "stream": "https://cdn.rlive.co.il/01JQ92V2GAXGHFGW6D95YJDA3J@tb.jpg",
+      "probe": "OK",
+      "content_type": "image/jpeg"
+    },
+    "80sforever": {
+      "stream": "https://cdn.rlive.co.il/01JWDRYE01KGFP90J212ZS7KSN@tb.jpg",
+      "probe": "OK",
+      "content_type": "image/jpeg"
+    },
+    "kol-arim": {
+      "stream": "https://cdn.rlive.co.il/01JX057J28RE8S4G6VJ0NXJNSY@tb.jpg",
+      "probe": "OK",
+      "content_type": "image/jpeg"
+    },
+    "radio-veronika": {
+      "stream": "https://22653.live.streamtheworld.com/RADIO_VERONIKAAAC_L.aac",
+      "probe": "OK",
+      "content_type": "audio/aacp"
+    },
+    "itch-fm": {
+      "stream": "https://cdn.rlive.co.il/01K8RDWXV36BBC29K29B5QY02K@tb.jpg",
+      "probe": "OK",
+      "content_type": "image/jpeg"
+    },
+    "musichevrati": {
+      "stream": "https://live.ecast.co.il/stream/hevralink",
+      "probe": "OK",
+      "content_type": "audio/mpeg"
+    },
+    "c14news": {
+      "stream": "https://cdn.rlive.co.il/01KDX2K39SAGPZA5Q0GY7B61V9@tb.jpg",
+      "probe": "OK",
+      "content_type": "image/jpeg"
+    },
+    "israeliradiomiami": {
+      "stream": "https://cdn.rlive.co.il/01KE4N243293WZ3PABGF759K15@tb.jpg",
+      "probe": "OK",
+      "content_type": "image/jpeg"
+    },
+    "noshmim-ahava": {
+      "stream": "https://cdn.rlive.co.il/01KMK6VAZV532A0D9M94NH5VD8@tb.jpg",
+      "probe": "OK",
+      "content_type": "image/jpeg"
+    },
+    "radio1": {
+      "stream": "https://cdn.rlive.co.il/01KRJRXDQMK4R0D0DEZSDG802D@tb.jpg",
+      "probe": "OK",
+      "content_type": "image/jpeg"
+    },
+    "mizrahyashan": {
+      "stream": "https://cdn.rlive.co.il/01KRJSTWKF38W3YC308V6MF1S8@tb.jpg",
+      "probe": "OK",
+      "content_type": "image/jpeg"
+    },
+    "bardugo": {
+      "stream": "https://cdn.rlive.co.il/01KYETG8E016YH1NF4J4N3A1WT@tb.jpg",
+      "probe": "OK",
+      "content_type": "image/jpeg"
+    },
+    "tiamo-music-radio": {
+      "stream": "https://cdn.rlive.co.il/01KYEVVER7HE1APGCJPEWCJ3EE@tb.jpg",
+      "probe": "OK",
+      "content_type": "image/jpeg"
+    },
+    "radio-g18": {
+      "stream": "https://cdn.rlive.co.il/01KZ3WA2ANXD9BVA8R051YE9FP@tb.jpg",
+      "probe": "OK",
+      "content_type": "image/jpeg"
+    }
+  },
+  "candidates": {
+    "kan_gimel_guess": {
+      "stream": "https://28563.live.streamtheworld.com/KAN_GIMEL.mp3",
+      "probe": "FAIL",
+      "content_type": ""
+    },
+    "glglz_guess": {
+      "stream": "https://28563.live.streamtheworld.com/GLGLZ.mp3",
+      "probe": "FAIL",
+      "content_type": ""
+    },
+    "glz_bynet": {
+      "stream": "http://glzwizzlv.bynetcdn.com/glz_mp3",
+      "probe": "OK",
+      "content_type": "audio/mpeg"
+    },
+    "galei_israel": {
+      "stream": "https://cdn.cybercdn.live/Galei_Israel/Live/icecast.audio",
+      "probe": "OK",
+      "content_type": "audio/mpeg"
+    },
+    "lev_hamedina": {
+      "stream": "https://cdn.cybercdn.live/Lev_Hamedina/Audio/icecast.audio",
+      "probe": "OK",
+      "content_type": "audio/mpeg"
+    },
+    "kol_rega": {
+      "stream": "https://cdn.cybercdn.live/Kol_Rega/Live_Audio/icecast.audio",
+      "probe": "OK",
+      "content_type": "audio/mpeg"
+    },
+    "101fm": {
+      "stream": "https://radio.streamgates.net/stream/101fm",
+      "probe": "OK",
+      "content_type": "audio/aac"
+    },
+    "1045fm": {
+      "stream": "https://radio.streamgates.net/stream/1045fm",
+      "probe": "OK",
+      "content_type": "audio/aacp"
+    },
+    "103fm": {
+      "stream": "https://radio.streamgates.net/stream/103fm",
+      "probe": "FAIL",
+      "content_type": ""
+    },
+    "100fm": {
+      "stream": "https://radio.streamgates.net/stream/100fm",
+      "probe": "FAIL",
+      "content_type": ""
+    },
+    "102fm": {
+      "stream": "https://radio.streamgates.net/stream/102fm",
+      "probe": "FAIL",
+      "content_type": ""
+    },
+    "lolfm_ecast": {
+      "stream": "https://live.ecast.co.il/stream/69fm/lolfm",
+      "probe": "OK",
+      "content_type": "audio/mpeg"
+    }
+  }
+}

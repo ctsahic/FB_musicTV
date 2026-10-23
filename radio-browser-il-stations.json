@@ -1,0 +1,2074 @@
+{
+  "generated": "26/09/2026",
+  "country": "IL",
+  "source": "radio-browser.info API + curated local seed (tools/israeli_seed.py)",
+  "genres": {
+    "electronic": {
+      "label": "אלקטרונית",
+      "emoji": "🎛",
+      "tags": [
+        "electronic",
+        "dance",
+        "techno",
+        "house",
+        "trance",
+        "edm"
+      ],
+      "stations": [
+        {
+          "name": "AVIVmedia",
+          "stream": "http://176.9.7.145:8127/stream",
+          "uuid": "1a524655-ad7a-454b-ac8d-855188b740a3",
+          "seed": false,
+          "tags": [
+            "electronic",
+            "trance"
+          ],
+          "votes": 140,
+          "bitrate": 320,
+          "codec": "MP3",
+          "hls": false,
+          "homepage": "https://www.avivmedia.com/"
+        },
+        {
+          "name": "הרוקדים",
+          "stream": "https://live.ecast.co.il:8022/stream",
+          "uuid": "seed-harokdim",
+          "seed": true,
+          "tags": [
+            "electronic",
+            "dance",
+            "party"
+          ],
+          "votes": 0,
+          "bitrate": 0,
+          "codec": "",
+          "hls": false,
+          "homepage": ""
+        },
+        {
+          "name": "Up2Dance",
+          "stream": "https://icecast.live/up2dance",
+          "uuid": "seed-up2dance",
+          "seed": true,
+          "tags": [
+            "electronic",
+            "dance"
+          ],
+          "votes": 0,
+          "bitrate": 0,
+          "codec": "",
+          "hls": false,
+          "homepage": ""
+        },
+        {
+          "name": "ברסלב פוריו: תורה וזימרה",
+          "stream": "https://cast.breslevforyou.co.il/listen/music-toravezimra/radio.mp3",
+          "uuid": "38c81bbc-f8c3-4447-ae0e-ff8880017e04",
+          "seed": false,
+          "tags": [
+            "jewish",
+            "music",
+            "trance"
+          ],
+          "votes": 3,
+          "bitrate": 128,
+          "codec": "MP3",
+          "hls": false,
+          "homepage": "https://breslevforyou.co.il/"
+        },
+        {
+          "name": "Radio 100% 90s",
+          "stream": "https://gb25.streamgates.net/radios-audio/10090s/icecast.audio",
+          "uuid": "692ae6f6-a6bd-4b69-991c-818a674b0e20",
+          "seed": false,
+          "tags": [
+            "90s",
+            "classic hits",
+            "dance",
+            "oldies"
+          ],
+          "votes": 153,
+          "bitrate": 128,
+          "codec": "AAC+",
+          "hls": false,
+          "homepage": "https://digital.100fm.co.il/"
+        },
+        {
+          "name": "#joint radio Beat Trance",
+          "stream": "https://jointil.com/stream-beat",
+          "uuid": "0324180d-596a-4b6b-a486-67e606e23d36",
+          "seed": false,
+          "tags": [
+            "ambient",
+            "edm",
+            "edm radioshows",
+            "electronic",
+            "electronic music",
+            "goa",
+            "goa trance",
+            "goa trance psychedelic trance",
+            "progressive psytrance",
+            "progressive trance",
+            "psytrance",
+            "trance"
+          ],
+          "votes": 264,
+          "bitrate": 320,
+          "codec": "MP3",
+          "hls": false,
+          "homepage": "https://www.jointil.com/"
+        }
+      ]
+    },
+    "classical": {
+      "label": "קלאסית",
+      "emoji": "🎻",
+      "tags": [
+        "classical",
+        "opera",
+        "symphony"
+      ],
+      "stations": [
+        {
+          "name": ".assalam",
+          "stream": "https://backup.qurango.net/radio/ahmad_khader_altarabulsi",
+          "uuid": "bf1cebbf-a58d-41a4-95f2-8abd5e50f6bf",
+          "seed": false,
+          "tags": [
+            "classical"
+          ],
+          "votes": 91,
+          "bitrate": 128,
+          "codec": "MP3",
+          "hls": false,
+          "homepage": ""
+        },
+        {
+          "name": "#Radio CS",
+          "stream": "https://n0a.radiojar.com/0tpy1h0kxtzuv?rj-ttl=5&rj-tok=AAABhdgGORQA-2acfyF3_4WY2g",
+          "uuid": "7cee6800-7c93-497f-9c9d-7efc55756757",
+          "seed": false,
+          "tags": [
+            "classical"
+          ],
+          "votes": 41,
+          "bitrate": 0,
+          "codec": "MP3",
+          "hls": false,
+          "homepage": ""
+        },
+        {
+          "name": "כאן קול המוסיקה",
+          "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/KAN_KOL_HAMUSICA.mp3",
+          "uuid": "seed-kan-kol-hamusica",
+          "seed": true,
+          "tags": [
+            "classical",
+            "opera",
+            "symphony"
+          ],
+          "votes": 0,
+          "bitrate": 0,
+          "codec": "",
+          "hls": false,
+          "homepage": ""
+        }
+      ]
+    },
+    "news": {
+      "label": "חדשות",
+      "emoji": "📰",
+      "tags": [
+        "news",
+        "talk",
+        "information"
+      ],
+      "stations": [
+        {
+          "name": "radio darom 95.8fm 97fm",
+          "stream": "https://cdn.cybercdn.live/Darom_97FM/Live/icecast.audio",
+          "uuid": "91929581-befa-4f52-bb5b-07cb376906d5",
+          "seed": false,
+          "tags": [
+            "music",
+            "news"
+          ],
+          "votes": 25,
+          "bitrate": 128,
+          "codec": "MP3",
+          "hls": false,
+          "homepage": "https://www.radiodarom.co.il/"
+        },
+        {
+          "name": "104.5FM צפון ללא הפסקה",
+          "stream": "https://cdn.cybercdn.live/Tzafon_NonStop/Live_Audio/icecast.audio",
+          "uuid": "seed-tzafon-1045",
+          "seed": true,
+          "tags": [
+            "news",
+            "talk"
+          ],
+          "votes": 0,
+          "bitrate": 0,
+          "codec": "",
+          "hls": false,
+          "homepage": ""
+        },
+        {
+          "name": "חדשות 13 (רדיו)",
+          "stream": "http://ff_engine.streamgates.net/Ch10News.mp3",
+          "uuid": "seed-n12",
+          "seed": true,
+          "tags": [
+            "news",
+            "talk"
+          ],
+          "votes": 0,
+          "bitrate": 0,
+          "codec": "",
+          "hls": false,
+          "homepage": ""
+        },
+        {
+          "name": "כאן מורשת",
+          "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/KAN_MORESHET.mp3",
+          "uuid": "seed-kan-moreshet",
+          "seed": true,
+          "tags": [
+            "news",
+            "talk",
+            "israeli",
+            "culture"
+          ],
+          "votes": 0,
+          "bitrate": 0,
+          "codec": "",
+          "hls": false,
+          "homepage": ""
+        },
+        {
+          "name": "גלי ישראל",
+          "stream": "https://cdn.cybercdn.live/Galei_Israel/Live/icecast.audio",
+          "uuid": "seed-galei-israel",
+          "seed": true,
+          "tags": [
+            "news",
+            "talk",
+            "israeli"
+          ],
+          "votes": 0,
+          "bitrate": 0,
+          "codec": "",
+          "hls": false,
+          "homepage": ""
+        },
+        {
+          "name": "103FM",
+          "stream": "https://cdn.cybercdn.live/103FM/Live/icecast.audio",
+          "uuid": "seed-103fm",
+          "seed": true,
+          "tags": [
+            "news",
+            "talk",
+            "israeli"
+          ],
+          "votes": 0,
+          "bitrate": 0,
+          "codec": "",
+          "hls": false,
+          "homepage": ""
+        },
+        {
+          "name": "רדיו חברתי FM",
+          "stream": "https://live.ecast.co.il/stream/hevrati",
+          "uuid": "seed-hevratifm",
+          "seed": true,
+          "tags": [
+            "news",
+            "talk",
+            "israeli"
+          ],
+          "votes": 0,
+          "bitrate": 0,
+          "codec": "",
+          "hls": false,
+          "homepage": ""
+        },
+        {
+          "name": "רדיו EOL ירושלים",
+          "stream": "https://eol-live.cdnwiz.com/eol/eolsite/icecast.audio",
+          "uuid": "seed-eol",
+          "seed": true,
+          "tags": [
+            "israeli",
+            "news",
+            "talk"
+          ],
+          "votes": 0,
+          "bitrate": 0,
+          "codec": "",
+          "hls": false,
+          "homepage": ""
+        },
+        {
+          "name": "כאן רשת ב'",
+          "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/KAN_BET.mp3",
+          "uuid": "seed-kan-bet",
+          "seed": true,
+          "tags": [
+            "news",
+            "talk",
+            "israeli",
+            "hebrew"
+          ],
+          "votes": 0,
+          "bitrate": 0,
+          "codec": "",
+          "hls": false,
+          "homepage": ""
+        },
+        {
+          "name": "גלצ",
+          "stream": "http://glzwizzlv.bynetcdn.com/glz_mp3",
+          "uuid": "seed-glz",
+          "seed": true,
+          "tags": [
+            "news",
+            "talk",
+            "israeli",
+            "hebrew"
+          ],
+          "votes": 0,
+          "bitrate": 0,
+          "codec": "",
+          "hls": false,
+          "homepage": ""
+        },
+        {
+          "name": "Kol Rega קול רגע 91.5/96",
+          "stream": "https://cdn.cybercdn.live/Kol_Rega/Live_Audio/icecast.audio",
+          "uuid": "b83ca2b1-4674-4944-9110-35c41fe25d70",
+          "seed": false,
+          "tags": [
+            "music",
+            "news",
+            "pop",
+            "talk & speech"
+          ],
+          "votes": 46,
+          "bitrate": 0,
+          "codec": "MP3",
+          "hls": false,
+          "homepage": "https://96fm.co.il/"
+        },
+        {
+          "name": "101FM ירושלים",
+          "stream": "https://cdn.cybercdn.live/JerusalemRadio/Live/icecast.audio",
+          "uuid": "seed-jerusalem-101",
+          "seed": true,
+          "tags": [
+            "israeli",
+            "news",
+            "hebrew"
+          ],
+          "votes": 0,
+          "bitrate": 0,
+          "codec": "",
+          "hls": false,
+          "homepage": ""
+        },
+        {
+          "name": "Eco 99fm",
+          "stream": "https://eco01.livecdn.biz/ecolive/99fm_aac/icecast.audio?hash=1559501510715.m4a",
+          "uuid": "dd08fbb3-277e-4a49-9866-7fd6c21bb124",
+          "seed": false,
+          "tags": [
+            "music",
+            "talk"
+          ],
+          "votes": 8,
+          "bitrate": 64,
+          "codec": "AAC+",
+          "hls": false,
+          "homepage": "https://eco99fm.maariv.co.il/"
+        },
+        {
+          "name": "Tel Aviv 102FM רדיו תל אביב",
+          "stream": "https://102.livecdn.biz/102fm_aac",
+          "uuid": "08993f63-44f2-4fa0-8541-99194d5fd838",
+          "seed": false,
+          "tags": [
+            "contenmporary",
+            "music",
+            "talk",
+            "ישראל"
+          ],
+          "votes": 31,
+          "bitrate": 64,
+          "codec": "AAC+",
+          "hls": false,
+          "homepage": "https://102fm.co.il/"
+        },
+        {
+          "name": "גלי צה\"ל",
+          "stream": "http://glzwizzlv.bynetcdn.com/glz_mp3?awCollectionId=misc&awEpisodeId=glz",
+          "uuid": "1fb7e37b-a0cb-4c70-a386-0b002de3bafe",
+          "seed": false,
+          "tags": [
+            "local news"
+          ],
+          "votes": 11,
+          "bitrate": 128,
+          "codec": "MP3",
+          "hls": false,
+          "homepage": "https://glz.co.il/%D7%92%D7%9C%D7%A6"
+        }
+      ]
+    },
+    "israeli": {
+      "label": "ישראלי",
+      "emoji": "🇮🇱",
+      "tags": [
+        "israeli",
+        "hebrew",
+        "mizrahi"
+      ],
+      "stations": [
+        {
+          "name": "כאן רשת ג'",
+          "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/KAN_GIMMEL.mp3",
+          "uuid": "seed-kan-gimmel",
+          "seed": true,
+          "tags": [
+            "israeli",
+            "hebrew",
+            "mizrahi"
+          ],
+          "votes": 0,
+          "bitrate": 0,
+          "codec": "",
+          "hls": false,
+          "homepage": ""
+        },
+        {
+          "name": "לב המדינה 91FM",
+          "stream": "https://cdn.cybercdn.live/Lev_Hamedina/Audio/icecast.audio",
+          "uuid": "seed-lev-hamedina-91",
+          "seed": true,
+          "tags": [
+            "israeli",
+            "mizrahi",
+            "hebrew"
+          ],
+          "votes": 0,
+          "bitrate": 0,
+          "codec": "",
+          "hls": false,
+          "homepage": ""
+        },
+        {
+          "name": "רדיו 90",
+          "stream": "https://cdn.cybercdn.live/Emtza_Haderech/Live_Audio/icecast.audio",
+          "uuid": "seed-radio-90",
+          "seed": true,
+          "tags": [
+            "israeli",
+            "hebrew"
+          ],
+          "votes": 0,
+          "bitrate": 0,
+          "codec": "",
+          "hls": false,
+          "homepage": ""
+        },
+        {
+          "name": "קול ברמה",
+          "stream": "https://cdn.cybercdn.live/Kol_Barama/Live_Audio/icecast.audio",
+          "uuid": "seed-kol-barama",
+          "seed": true,
+          "tags": [
+            "mizrahi",
+            "israeli"
+          ],
+          "votes": 0,
+          "bitrate": 0,
+          "codec": "",
+          "hls": false,
+          "homepage": ""
+        },
+        {
+          "name": "התחנה 101.5FM",
+          "stream": "https://cdn.cybercdn.live/Hatahana_1015/Live_Audio/icecast.audio",
+          "uuid": "seed-hatahana-1015",
+          "seed": true,
+          "tags": [
+            "mizrahi",
+            "israeli"
+          ],
+          "votes": 0,
+          "bitrate": 0,
+          "codec": "",
+          "hls": false,
+          "homepage": ""
+        },
+        {
+          "name": "רדיו דרום 97FM",
+          "stream": "https://cdn.cybercdn.live/Darom_97FM/Live/icecast.audio",
+          "uuid": "seed-darom-97",
+          "seed": true,
+          "tags": [
+            "israeli",
+            "hebrew"
+          ],
+          "votes": 0,
+          "bitrate": 0,
+          "codec": "",
+          "hls": false,
+          "homepage": ""
+        },
+        {
+          "name": "רדיו דרום 101.5FM",
+          "stream": "https://cdn.cybercdn.live/Darom_1015FM/Live/icecast.audio",
+          "uuid": "seed-darom-1015",
+          "seed": true,
+          "tags": [
+            "israeli",
+            "hebrew"
+          ],
+          "votes": 0,
+          "bitrate": 0,
+          "codec": "",
+          "hls": false,
+          "homepage": ""
+        },
+        {
+          "name": "רדיו סהר",
+          "stream": "https://live.ecast.co.il/stream/sahar",
+          "uuid": "seed-radio-sahar",
+          "seed": true,
+          "tags": [
+            "israeli",
+            "hebrew",
+            "community"
+          ],
+          "votes": 0,
+          "bitrate": 0,
+          "codec": "",
+          "hls": false,
+          "homepage": ""
+        },
+        {
+          "name": "דודי FM",
+          "stream": "https://live.ecast.co.il/stream/dudifm",
+          "uuid": "seed-dudifm",
+          "seed": true,
+          "tags": [
+            "mizrahi",
+            "israeli"
+          ],
+          "votes": 0,
+          "bitrate": 0,
+          "codec": "",
+          "hls": false,
+          "homepage": ""
+        },
+        {
+          "name": "המזרחית FM",
+          "stream": "https://live.ecast.co.il/stream/mizrahit",
+          "uuid": "seed-hamizrahit",
+          "seed": true,
+          "tags": [
+            "mizrahi",
+            "israeli"
+          ],
+          "votes": 0,
+          "bitrate": 0,
+          "codec": "",
+          "hls": false,
+          "homepage": ""
+        },
+        {
+          "name": "קול ראשונים",
+          "stream": "https://live.ecast.co.il/stream/1062",
+          "uuid": "seed-kol-rishonim",
+          "seed": true,
+          "tags": [
+            "mizrahi",
+            "israeli"
+          ],
+          "votes": 0,
+          "bitrate": 0,
+          "codec": "",
+          "hls": false,
+          "homepage": ""
+        },
+        {
+          "name": "רדיו אידן",
+          "stream": "https://live.ecast.co.il/stream/radioneto1",
+          "uuid": "seed-radio-idan",
+          "seed": true,
+          "tags": [
+            "mizrahi",
+            "israeli"
+          ],
+          "votes": 0,
+          "bitrate": 0,
+          "codec": "",
+          "hls": false,
+          "homepage": ""
+        },
+        {
+          "name": "69FM",
+          "stream": "https://live.ecast.co.il/stream/69fm",
+          "uuid": "seed-69fm",
+          "seed": true,
+          "tags": [
+            "israeli",
+            "hebrew"
+          ],
+          "votes": 0,
+          "bitrate": 0,
+          "codec": "",
+          "hls": false,
+          "homepage": ""
+        },
+        {
+          "name": "קול הצפון",
+          "stream": "https://live.ecast.co.il/stream/khz",
+          "uuid": "seed-kol-hatzafon",
+          "seed": true,
+          "tags": [
+            "israeli",
+            "hebrew"
+          ],
+          "votes": 0,
+          "bitrate": 0,
+          "codec": "",
+          "hls": false,
+          "homepage": ""
+        },
+        {
+          "name": "קול גלים",
+          "stream": "https://live.ecast.co.il/stream/galimlive",
+          "uuid": "seed-kol-galim",
+          "seed": true,
+          "tags": [
+            "israeli",
+            "hebrew"
+          ],
+          "votes": 0,
+          "bitrate": 0,
+          "codec": "",
+          "hls": false,
+          "homepage": ""
+        },
+        {
+          "name": "קריות FM",
+          "stream": "https://live.ecast.co.il/stream/krayotfm",
+          "uuid": "seed-krayotfm",
+          "seed": true,
+          "tags": [
+            "israeli",
+            "hebrew"
+          ],
+          "votes": 0,
+          "bitrate": 0,
+          "codec": "",
+          "hls": false,
+          "homepage": ""
+        },
+        {
+          "name": "The Best רדיו",
+          "stream": "https://cdna.streamgates.net/TheBest/live/playlist.m3u8",
+          "uuid": "seed-the-best",
+          "seed": true,
+          "tags": [
+            "mizrahi",
+            "israeli"
+          ],
+          "votes": 0,
+          "bitrate": 0,
+          "codec": "",
+          "hls": true,
+          "homepage": ""
+        },
+        {
+          "name": "קול נס ציונה",
+          "stream": "http://kolness.livecast.co.il/liveness",
+          "uuid": "seed-kol-ness-ziona",
+          "seed": true,
+          "tags": [
+            "israeli",
+            "hebrew"
+          ],
+          "votes": 0,
+          "bitrate": 0,
+          "codec": "",
+          "hls": false,
+          "homepage": ""
+        },
+        {
+          "name": "רדיו אריאל 106FM",
+          "stream": "https://ariel.icecast.live/hls/1/stream.m3u8",
+          "uuid": "seed-radio106-ariel",
+          "seed": true,
+          "tags": [
+            "israeli",
+            "hebrew"
+          ],
+          "votes": 0,
+          "bitrate": 0,
+          "codec": "",
+          "hls": true,
+          "homepage": ""
+        },
+        {
+          "name": "רדיו קול נתניה",
+          "stream": "https://icecast.live/hls/kol_netanya/rkn_hls.m3u8",
+          "uuid": "seed-kol-netanya",
+          "seed": true,
+          "tags": [
+            "israeli",
+            "hebrew"
+          ],
+          "votes": 0,
+          "bitrate": 0,
+          "codec": "",
+          "hls": true,
+          "homepage": ""
+        },
+        {
+          "name": "נעים FM",
+          "stream": "https://icecast.live/hls/neurimfm/live.m3u8",
+          "uuid": "seed-neurim-fm",
+          "seed": true,
+          "tags": [
+            "israeli",
+            "hebrew"
+          ],
+          "votes": 0,
+          "bitrate": 0,
+          "codec": "",
+          "hls": true,
+          "homepage": ""
+        },
+        {
+          "name": "קול רגע 96FM",
+          "stream": "https://cdn.cybercdn.live/Kol_Rega/Live_Audio/icecast.audio",
+          "uuid": "seed-kol-rega-96",
+          "seed": true,
+          "tags": [
+            "israeli",
+            "pop",
+            "hebrew"
+          ],
+          "votes": 0,
+          "bitrate": 0,
+          "codec": "",
+          "hls": false,
+          "homepage": ""
+        },
+        {
+          "name": "רדיו 2000",
+          "stream": "https://cdn.cybercdn.live/Radio2000/MP3/icecast.audio",
+          "uuid": "seed-radio-2000",
+          "seed": true,
+          "tags": [
+            "israeli",
+            "mizrahi",
+            "nostalgia"
+          ],
+          "votes": 0,
+          "bitrate": 0,
+          "codec": "",
+          "hls": false,
+          "homepage": ""
+        },
+        {
+          "name": "101FM ירושלים",
+          "stream": "https://cdn.cybercdn.live/JerusalemRadio/Live/icecast.audio",
+          "uuid": "seed-jerusalem-101",
+          "seed": true,
+          "tags": [
+            "israeli",
+            "news",
+            "hebrew"
+          ],
+          "votes": 0,
+          "bitrate": 0,
+          "codec": "",
+          "hls": false,
+          "homepage": ""
+        },
+        {
+          "name": "נוסטלגיה 96.3FM",
+          "stream": "https://cdna.streamgates.net/radios-audio/Nostalgia_963fm/playlist.m3u8",
+          "uuid": "seed-nostalgia-963",
+          "seed": true,
+          "tags": [
+            "israeli",
+            "nostalgia",
+            "mizrahi"
+          ],
+          "votes": 0,
+          "bitrate": 0,
+          "codec": "",
+          "hls": true,
+          "homepage": ""
+        },
+        {
+          "name": "כאן רשת ב'",
+          "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/KAN_BET.mp3",
+          "uuid": "seed-kan-bet",
+          "seed": true,
+          "tags": [
+            "news",
+            "talk",
+            "israeli",
+            "hebrew"
+          ],
+          "votes": 0,
+          "bitrate": 0,
+          "codec": "",
+          "hls": false,
+          "homepage": ""
+        },
+        {
+          "name": "גלגלצ",
+          "stream": "http://glzwizzlv.bynetcdn.com/glglz_mp3",
+          "uuid": "seed-glglz",
+          "seed": true,
+          "tags": [
+            "pop",
+            "top 40",
+            "israeli",
+            "hebrew"
+          ],
+          "votes": 0,
+          "bitrate": 0,
+          "codec": "",
+          "hls": false,
+          "homepage": ""
+        },
+        {
+          "name": "גלצ",
+          "stream": "http://glzwizzlv.bynetcdn.com/glz_mp3",
+          "uuid": "seed-glz",
+          "seed": true,
+          "tags": [
+            "news",
+            "talk",
+            "israeli",
+            "hebrew"
+          ],
+          "votes": 0,
+          "bitrate": 0,
+          "codec": "",
+          "hls": false,
+          "homepage": ""
+        },
+        {
+          "name": "רדיו צחוק FM (LOLfm)",
+          "stream": "https://live.ecast.co.il/stream/69fm/lolfm",
+          "uuid": "seed-lolfm",
+          "seed": true,
+          "tags": [
+            "humor",
+            "comedy",
+            "israeli",
+            "hebrew"
+          ],
+          "votes": 0,
+          "bitrate": 0,
+          "codec": "",
+          "hls": false,
+          "homepage": ""
+        },
+        {
+          "name": "Hits IL",
+          "stream": "https://icecast.live/hitsil",
+          "uuid": "seed-hitsil",
+          "seed": true,
+          "tags": [
+            "pop",
+            "hits",
+            "israeli"
+          ],
+          "votes": 0,
+          "bitrate": 0,
+          "codec": "",
+          "hls": false,
+          "homepage": ""
+        },
+        {
+          "name": "כאן 88FM",
+          "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/KAN_88.mp3",
+          "uuid": "seed-kan-88",
+          "seed": true,
+          "tags": [
+            "rock",
+            "israeli",
+            "alternative"
+          ],
+          "votes": 0,
+          "bitrate": 0,
+          "codec": "",
+          "hls": false,
+          "homepage": ""
+        },
+        {
+          "name": "כאן מורשת",
+          "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/KAN_MORESHET.mp3",
+          "uuid": "seed-kan-moreshet",
+          "seed": true,
+          "tags": [
+            "news",
+            "talk",
+            "israeli",
+            "culture"
+          ],
+          "votes": 0,
+          "bitrate": 0,
+          "codec": "",
+          "hls": false,
+          "homepage": ""
+        },
+        {
+          "name": "גלי ישראל",
+          "stream": "https://cdn.cybercdn.live/Galei_Israel/Live/icecast.audio",
+          "uuid": "seed-galei-israel",
+          "seed": true,
+          "tags": [
+            "news",
+            "talk",
+            "israeli"
+          ],
+          "votes": 0,
+          "bitrate": 0,
+          "codec": "",
+          "hls": false,
+          "homepage": ""
+        },
+        {
+          "name": "103FM",
+          "stream": "https://cdn.cybercdn.live/103FM/Live/icecast.audio",
+          "uuid": "seed-103fm",
+          "seed": true,
+          "tags": [
+            "news",
+            "talk",
+            "israeli"
+          ],
+          "votes": 0,
+          "bitrate": 0,
+          "codec": "",
+          "hls": false,
+          "homepage": ""
+        },
+        {
+          "name": "100FM רדיו ללא הפסקה",
+          "stream": "https://cdn.cybercdn.live/Radios_100FM/Audio/playlist.m3u8",
+          "uuid": "seed-100fm",
+          "seed": true,
+          "tags": [
+            "rock",
+            "alternative",
+            "israeli"
+          ],
+          "votes": 0,
+          "bitrate": 0,
+          "codec": "",
+          "hls": true,
+          "homepage": ""
+        },
+        {
+          "name": "רדיו חברתי FM",
+          "stream": "https://live.ecast.co.il/stream/hevrati",
+          "uuid": "seed-hevratifm",
+          "seed": true,
+          "tags": [
+            "news",
+            "talk",
+            "israeli"
+          ],
+          "votes": 0,
+          "bitrate": 0,
+          "codec": "",
+          "hls": false,
+          "homepage": ""
+        },
+        {
+          "name": "רדיו EOL ירושלים",
+          "stream": "https://eol-live.cdnwiz.com/eol/eolsite/icecast.audio",
+          "uuid": "seed-eol",
+          "seed": true,
+          "tags": [
+            "israeli",
+            "news",
+            "talk"
+          ],
+          "votes": 0,
+          "bitrate": 0,
+          "codec": "",
+          "hls": false,
+          "homepage": ""
+        },
+        {
+          "name": "yStream",
+          "stream": "https://ystream.live/ystream-mp3",
+          "uuid": "c0c35a84-b5f4-4783-b27e-ab348c3f7e42",
+          "seed": false,
+          "tags": [
+            "adult contemporary",
+            "ai radio",
+            "hebrew",
+            "international",
+            "israeli",
+            "pop",
+            "variety"
+          ],
+          "votes": 1,
+          "bitrate": 128,
+          "codec": "MP3",
+          "hls": false,
+          "homepage": "https://ystream.live/"
+        },
+        {
+          "name": "זה רוק",
+          "stream": "https://icecast.live/zerock",
+          "uuid": "seed-zerock",
+          "seed": true,
+          "tags": [
+            "rock",
+            "hebrew"
+          ],
+          "votes": 0,
+          "bitrate": 0,
+          "codec": "",
+          "hls": false,
+          "homepage": ""
+        },
+        {
+          "name": "תל אביב Tel Aviv 102FM",
+          "stream": "http://102.livecdn.biz/102fm_aac",
+          "uuid": "82333dc7-7622-4cf1-a8d8-2068e0b79ec9",
+          "seed": false,
+          "tags": [
+            "hebrew",
+            "ilstations",
+            "israeli pop",
+            "pop",
+            "tel aviv"
+          ],
+          "votes": 1074,
+          "bitrate": 64,
+          "codec": "AAC+",
+          "hls": false,
+          "homepage": "http://102fm.co.il/"
+        },
+        {
+          "name": "Kcm FM Channel 01 Live",
+          "stream": "https://media2.93fm.co.il/livemusic",
+          "uuid": "5b7a953b-98a6-4823-a9f9-3ad52aa2ed88",
+          "seed": false,
+          "tags": [
+            "hasidic",
+            "hebrew",
+            "israël",
+            "religious",
+            "yiddish"
+          ],
+          "votes": 48,
+          "bitrate": 128,
+          "codec": "AAC",
+          "hls": false,
+          "homepage": "https://kcm.fm/"
+        }
+      ]
+    },
+    "pop": {
+      "label": "פופ",
+      "emoji": "🎤",
+      "tags": [
+        "pop",
+        "top 40"
+      ],
+      "stations": [
+        {
+          "name": "Первое радио 89.1FM",
+          "stream": "https://cdn.cybercdn.live/Pervoia/Audio/icecast.audio",
+          "uuid": "1e95d61c-88ad-4d59-82b4-f512c2a45aa6",
+          "seed": false,
+          "tags": [
+            "pop"
+          ],
+          "votes": 2164,
+          "bitrate": 0,
+          "codec": "MP3",
+          "hls": false,
+          "homepage": "https://www.891fm.co.il/"
+        },
+        {
+          "name": "ECO99FM",
+          "stream": "https://eco-live.mediacast.co.il/99fm_aac",
+          "uuid": "5357dc24-46cc-4671-9b55-26b811820c6c",
+          "seed": false,
+          "tags": [
+            "pop",
+            "top 40"
+          ],
+          "votes": 635,
+          "bitrate": 64,
+          "codec": "AAC+",
+          "hls": false,
+          "homepage": "http://eco99fm.maariv.co.il/"
+        },
+        {
+          "name": "Galgalatz 91.8 FM",
+          "stream": "https://glzicylv01.bynetcdn.com/glglz_mp3",
+          "uuid": "8407749b-aa65-4aee-b503-bd6e196bea9d",
+          "seed": false,
+          "tags": [
+            "hits",
+            "pop",
+            "world"
+          ],
+          "votes": 820,
+          "bitrate": 128,
+          "codec": "MP3",
+          "hls": false,
+          "homepage": "https://glz.co.il/%D7%92%D7%9C%D7%92%D7%9C%D7%A6"
+        },
+        {
+          "name": "100fm - 100% Movies",
+          "stream": "http://gb25.streamgates.net/radios-audio/100Movies/icecast.audio",
+          "uuid": "49aa910d-859e-4f2b-a1ca-04f163de07bb",
+          "seed": false,
+          "tags": [
+            "movie music",
+            "music",
+            "pop"
+          ],
+          "votes": 802,
+          "bitrate": 128,
+          "codec": "AAC+",
+          "hls": false,
+          "homepage": "https://superradio.cc/"
+        },
+        {
+          "name": "גלגלצ",
+          "stream": "http://glzwizzlv.bynetcdn.com/glglz_mp3",
+          "uuid": "seed-glglz",
+          "seed": true,
+          "tags": [
+            "pop",
+            "top 40",
+            "israeli",
+            "hebrew"
+          ],
+          "votes": 0,
+          "bitrate": 0,
+          "codec": "",
+          "hls": false,
+          "homepage": ""
+        },
+        {
+          "name": "Hits IL",
+          "stream": "https://icecast.live/hitsil",
+          "uuid": "seed-hitsil",
+          "seed": true,
+          "tags": [
+            "pop",
+            "hits",
+            "israeli"
+          ],
+          "votes": 0,
+          "bitrate": 0,
+          "codec": "",
+          "hls": false,
+          "homepage": ""
+        },
+        {
+          "name": "קול רגע 96FM",
+          "stream": "https://cdn.cybercdn.live/Kol_Rega/Live_Audio/icecast.audio",
+          "uuid": "seed-kol-rega-96",
+          "seed": true,
+          "tags": [
+            "israeli",
+            "pop",
+            "hebrew"
+          ],
+          "votes": 0,
+          "bitrate": 0,
+          "codec": "",
+          "hls": false,
+          "homepage": ""
+        },
+        {
+          "name": "תל אביב Tel Aviv 102FM",
+          "stream": "http://102.livecdn.biz/102fm_aac",
+          "uuid": "82333dc7-7622-4cf1-a8d8-2068e0b79ec9",
+          "seed": false,
+          "tags": [
+            "hebrew",
+            "ilstations",
+            "israeli pop",
+            "pop",
+            "tel aviv"
+          ],
+          "votes": 1074,
+          "bitrate": 64,
+          "codec": "AAC+",
+          "hls": false,
+          "homepage": "http://102fm.co.il/"
+        },
+        {
+          "name": "yStream",
+          "stream": "https://ystream.live/ystream-mp3",
+          "uuid": "c0c35a84-b5f4-4783-b27e-ab348c3f7e42",
+          "seed": false,
+          "tags": [
+            "adult contemporary",
+            "ai radio",
+            "hebrew",
+            "international",
+            "israeli",
+            "pop",
+            "variety"
+          ],
+          "votes": 1,
+          "bitrate": 128,
+          "codec": "MP3",
+          "hls": false,
+          "homepage": "https://ystream.live/"
+        },
+        {
+          "name": "Israeli voice radio",
+          "stream": "https://icecast.live/ivr",
+          "uuid": "0b67ac8c-516d-4251-92c6-51991696f253",
+          "seed": false,
+          "tags": [
+            "60's",
+            "70's",
+            "80's",
+            "90's pop",
+            "rock and ballads"
+          ],
+          "votes": 97,
+          "bitrate": 80,
+          "codec": "AAC",
+          "hls": false,
+          "homepage": "https://israelivoiceradio.co.il/"
+        },
+        {
+          "name": "Radios 100FM - 100% K-pop",
+          "stream": "https://gb25.streamgates.net/radios-audio/100kpop/icecast.audio",
+          "uuid": "74aeee22-8186-4e4f-b1d7-36b635dad886",
+          "seed": false,
+          "tags": [
+            "kpop"
+          ],
+          "votes": 6,
+          "bitrate": 128,
+          "codec": "AAC+",
+          "hls": false,
+          "homepage": "https://digital.100fm.co.il/#kpop"
+        },
+        {
+          "name": "Radios 100FM - 100% Britpop",
+          "stream": "https://gb25.streamgates.net/radios-audio/100Britpop/playlist.m3u8",
+          "uuid": "a67789d0-acdd-406f-9c9b-9a7be43acd27",
+          "seed": false,
+          "tags": [
+            "britpop"
+          ],
+          "votes": 2,
+          "bitrate": 149,
+          "codec": "AAC",
+          "hls": true,
+          "homepage": "https://digital.100fm.co.il/#britpop"
+        },
+        {
+          "name": "#joint radio Blues Rock",
+          "stream": "https://jointil.com/stream-blues",
+          "uuid": "13d86ff8-058f-44e6-ba21-ccd065fb5dca",
+          "seed": false,
+          "tags": [
+            "60s",
+            "70s",
+            "80s",
+            "alternative rock",
+            "bluegrass",
+            "blues",
+            "blues rock",
+            "chicago blues",
+            "classic blues",
+            "classic hits",
+            "classic rock",
+            "country blues",
+            "hits",
+            "pop rock",
+            "rhythm and blues (1960s randb (eg. the rolling stones))",
+            "rock",
+            "soft rock",
+            "top hits"
+          ],
+          "votes": 543,
+          "bitrate": 320,
+          "codec": "MP3",
+          "hls": false,
+          "homepage": "https://www.jointil.com/"
+        },
+        {
+          "name": "#joint radio Reggae",
+          "stream": "https://jointil.com/stream-reggae",
+          "uuid": "9684cbbc-ea62-422c-bc93-20cf4ed4bac1",
+          "seed": false,
+          "tags": [
+            "dub",
+            "dub reggae",
+            "reggae",
+            "reggae pop",
+            "reggaeton",
+            "rocksteady",
+            "roots reggae",
+            "ska",
+            "smooth reggae"
+          ],
+          "votes": 240,
+          "bitrate": 320,
+          "codec": "MP3",
+          "hls": false,
+          "homepage": "https://www.jointil.com/"
+        }
+      ]
+    },
+    "rock": {
+      "label": "רוק",
+      "emoji": "🎸",
+      "tags": [
+        "rock",
+        "alternative",
+        "metal"
+      ],
+      "stations": [
+        {
+          "name": "Radios 100FM - 100% Rock",
+          "stream": "https://gb25.streamgates.net/radios-audio/100Rock/playlist.m3u8",
+          "uuid": "2f278549-4fb8-4d0d-8c85-f9243c35b119",
+          "seed": false,
+          "tags": [
+            "rock"
+          ],
+          "votes": 2,
+          "bitrate": 148,
+          "codec": "AAC",
+          "hls": true,
+          "homepage": "https://digital.100fm.co.il/#rock"
+        },
+        {
+          "name": "Glglz - Rock",
+          "stream": "https://glzwizzlv.bynetcdn.com/glglz_rock_mp3",
+          "uuid": "73c94920-e308-48f4-962e-f67abf8af331",
+          "seed": false,
+          "tags": [
+            "rock"
+          ],
+          "votes": 1,
+          "bitrate": 128,
+          "codec": "MP3",
+          "hls": false,
+          "homepage": "https://glz.co.il/%D7%92%D7%9C%D7%92%D7%9C%D7%A6"
+        },
+        {
+          "name": "כאן 88FM",
+          "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/KAN_88.mp3",
+          "uuid": "seed-kan-88",
+          "seed": true,
+          "tags": [
+            "rock",
+            "israeli",
+            "alternative"
+          ],
+          "votes": 0,
+          "bitrate": 0,
+          "codec": "",
+          "hls": false,
+          "homepage": ""
+        },
+        {
+          "name": "100FM רדיו ללא הפסקה",
+          "stream": "https://cdn.cybercdn.live/Radios_100FM/Audio/playlist.m3u8",
+          "uuid": "seed-100fm",
+          "seed": true,
+          "tags": [
+            "rock",
+            "alternative",
+            "israeli"
+          ],
+          "votes": 0,
+          "bitrate": 0,
+          "codec": "",
+          "hls": true,
+          "homepage": ""
+        },
+        {
+          "name": "KZ רדיו קול הקמפוס",
+          "stream": "https://kzradio.mediacast.co.il/kzradio_live/kzradio/icecast.audio",
+          "uuid": "seed-kzradio",
+          "seed": true,
+          "tags": [
+            "rock",
+            "alternative",
+            "indie"
+          ],
+          "votes": 0,
+          "bitrate": 0,
+          "codec": "",
+          "hls": false,
+          "homepage": ""
+        },
+        {
+          "name": "זה רוק",
+          "stream": "https://icecast.live/zerock",
+          "uuid": "seed-zerock",
+          "seed": true,
+          "tags": [
+            "rock",
+            "hebrew"
+          ],
+          "votes": 0,
+          "bitrate": 0,
+          "codec": "",
+          "hls": false,
+          "homepage": ""
+        },
+        {
+          "name": "Ze Rock Radio",
+          "stream": "https://icecast.live/proxy/zerock/zerock",
+          "uuid": "e77ab056-eda4-4438-8e0f-6e8522e75343",
+          "seed": false,
+          "tags": [
+            "indy",
+            "metal",
+            "post punk",
+            "punk",
+            "rock"
+          ],
+          "votes": 80,
+          "bitrate": 128,
+          "codec": "MP3",
+          "hls": false,
+          "homepage": "https://zerockradio.com/"
+        },
+        {
+          "name": "Israeli voice radio",
+          "stream": "https://icecast.live/ivr",
+          "uuid": "0b67ac8c-516d-4251-92c6-51991696f253",
+          "seed": false,
+          "tags": [
+            "60's",
+            "70's",
+            "80's",
+            "90's pop",
+            "rock and ballads"
+          ],
+          "votes": 97,
+          "bitrate": 80,
+          "codec": "AAC",
+          "hls": false,
+          "homepage": "https://israelivoiceradio.co.il/"
+        },
+        {
+          "name": "Radios 100FM - 100% Classic Rock",
+          "stream": "https://gb25.streamgates.net/radios-audio/100ClassicRock/playlist.m3u8",
+          "uuid": "1ea694eb-6bf3-4978-9878-5b444c65647d",
+          "seed": false,
+          "tags": [
+            "classic rock"
+          ],
+          "votes": 3,
+          "bitrate": 145,
+          "codec": "AAC",
+          "hls": true,
+          "homepage": "https://digital.100fm.co.il/#classicrock"
+        },
+        {
+          "name": "#joint radio Blues Rock",
+          "stream": "https://jointil.com/stream-blues",
+          "uuid": "13d86ff8-058f-44e6-ba21-ccd065fb5dca",
+          "seed": false,
+          "tags": [
+            "60s",
+            "70s",
+            "80s",
+            "alternative rock",
+            "bluegrass",
+            "blues",
+            "blues rock",
+            "chicago blues",
+            "classic blues",
+            "classic hits",
+            "classic rock",
+            "country blues",
+            "hits",
+            "pop rock",
+            "rhythm and blues (1960s randb (eg. the rolling stones))",
+            "rock",
+            "soft rock",
+            "top hits"
+          ],
+          "votes": 543,
+          "bitrate": 320,
+          "codec": "MP3",
+          "hls": false,
+          "homepage": "https://www.jointil.com/"
+        },
+        {
+          "name": "#joint radio Reggae",
+          "stream": "https://jointil.com/stream-reggae",
+          "uuid": "9684cbbc-ea62-422c-bc93-20cf4ed4bac1",
+          "seed": false,
+          "tags": [
+            "dub",
+            "dub reggae",
+            "reggae",
+            "reggae pop",
+            "reggaeton",
+            "rocksteady",
+            "roots reggae",
+            "ska",
+            "smooth reggae"
+          ],
+          "votes": 240,
+          "bitrate": 320,
+          "codec": "MP3",
+          "hls": false,
+          "homepage": "https://www.jointil.com/"
+        }
+      ]
+    },
+    "jazz": {
+      "label": "ג'אז ובלוז",
+      "emoji": "🎷",
+      "tags": [
+        "jazz",
+        "blues",
+        "soul"
+      ],
+      "stations": [
+        {
+          "name": "Radios 100FM - 100% Jazz",
+          "stream": "https://gb25.streamgates.net/radios-audio/100Jazz/icecast.audio",
+          "uuid": "029c330c-922e-421c-a321-5031c82c355b",
+          "seed": false,
+          "tags": [
+            "jazz"
+          ],
+          "votes": 1,
+          "bitrate": 128,
+          "codec": "AAC+",
+          "hls": false,
+          "homepage": "https://digital.100fm.co.il/#jazz"
+        },
+        {
+          "name": "Radios 100FM - 100% Blues",
+          "stream": "https://gb25.streamgates.net/radios-audio/100Blues/playlist.m3u8",
+          "uuid": "beea8de9-e9cf-4453-bd00-28808b7358c1",
+          "seed": false,
+          "tags": [
+            "blues"
+          ],
+          "votes": 3,
+          "bitrate": 145,
+          "codec": "AAC",
+          "hls": true,
+          "homepage": "https://digital.100fm.co.il/#blues"
+        },
+        {
+          "name": "#joint radio Blues Rock",
+          "stream": "https://jointil.com/stream-blues",
+          "uuid": "13d86ff8-058f-44e6-ba21-ccd065fb5dca",
+          "seed": false,
+          "tags": [
+            "60s",
+            "70s",
+            "80s",
+            "alternative rock",
+            "bluegrass",
+            "blues",
+            "blues rock",
+            "chicago blues",
+            "classic blues",
+            "classic hits",
+            "classic rock",
+            "country blues",
+            "hits",
+            "pop rock",
+            "rhythm and blues (1960s randb (eg. the rolling stones))",
+            "rock",
+            "soft rock",
+            "top hits"
+          ],
+          "votes": 543,
+          "bitrate": 320,
+          "codec": "MP3",
+          "hls": false,
+          "homepage": "https://www.jointil.com/"
+        }
+      ]
+    },
+    "world": {
+      "label": "מוזיקת עולם",
+      "emoji": "🌍",
+      "tags": [
+        "world",
+        "folk",
+        "ethnic"
+      ],
+      "stations": [
+        {
+          "name": "כאן רק\"ע (רשת בערבית)",
+          "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/KAN_REKA.mp3",
+          "uuid": "seed-kan-reka",
+          "seed": true,
+          "tags": [
+            "world",
+            "ethnic",
+            "arabic"
+          ],
+          "votes": 0,
+          "bitrate": 0,
+          "codec": "",
+          "hls": false,
+          "homepage": ""
+        },
+        {
+          "name": "כאן רדיו מכאן",
+          "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_MAKAN.mp3",
+          "uuid": "seed-kan-makan",
+          "seed": true,
+          "tags": [
+            "world",
+            "ethnic",
+            "arabic"
+          ],
+          "votes": 0,
+          "bitrate": 0,
+          "codec": "",
+          "hls": false,
+          "homepage": ""
+        },
+        {
+          "name": "פרבוה רדיו (רוסית)",
+          "stream": "https://cdn.cybercdn.live/Pervoia/Audio/playlist.m3u8",
+          "uuid": "seed-pervoe",
+          "seed": true,
+          "tags": [
+            "russian",
+            "world",
+            "ethnic"
+          ],
+          "votes": 0,
+          "bitrate": 0,
+          "codec": "",
+          "hls": true,
+          "homepage": ""
+        },
+        {
+          "name": "Galgalatz 91.8 FM",
+          "stream": "https://glzicylv01.bynetcdn.com/glglz_mp3",
+          "uuid": "8407749b-aa65-4aee-b503-bd6e196bea9d",
+          "seed": false,
+          "tags": [
+            "hits",
+            "pop",
+            "world"
+          ],
+          "votes": 820,
+          "bitrate": 128,
+          "codec": "MP3",
+          "hls": false,
+          "homepage": "https://glz.co.il/%D7%92%D7%9C%D7%92%D7%9C%D7%A6"
+        },
+        {
+          "name": "Radio Yasoo",
+          "stream": "http://radio-yasoo.ath.cx:7500/;",
+          "uuid": "37e8f5fa-23b1-4e8f-ba02-5323e5ead172",
+          "seed": false,
+          "tags": [
+            "greek folk",
+            "greek folk music",
+            "greek internet radio",
+            "greek music",
+            "greek traditional"
+          ],
+          "votes": 7,
+          "bitrate": 128,
+          "codec": "MP3",
+          "hls": false,
+          "homepage": "https://www.radio-yasoo.com/"
+        },
+        {
+          "name": "Radios 100FM - 100% World Music",
+          "stream": "https://gb25.streamgates.net/radios-audio/100World/playlist.m3u8",
+          "uuid": "73a1c99b-67b4-49d0-b7df-7493dcc31873",
+          "seed": false,
+          "tags": [
+            "world music"
+          ],
+          "votes": 3,
+          "bitrate": 148,
+          "codec": "AAC",
+          "hls": true,
+          "homepage": "https://digital.100fm.co.il/#world"
+        }
+      ]
+    },
+    "regional": {
+      "label": "אזוריות",
+      "emoji": "📍",
+      "tags": [],
+      "stations": [
+        {
+          "name": "ECO99FM",
+          "stream": "https://eco-live.mediacast.co.il/99fm_aac",
+          "uuid": "5357dc24-46cc-4671-9b55-26b811820c6c",
+          "seed": false,
+          "tags": [
+            "pop",
+            "top 40"
+          ],
+          "votes": 635,
+          "bitrate": 64,
+          "codec": "AAC+",
+          "hls": false,
+          "homepage": "http://eco99fm.maariv.co.il/"
+        },
+        {
+          "name": "#joint radio Blues Rock",
+          "stream": "https://jointil.com/stream-blues",
+          "uuid": "13d86ff8-058f-44e6-ba21-ccd065fb5dca",
+          "seed": false,
+          "tags": [
+            "60s",
+            "70s",
+            "80s",
+            "alternative rock",
+            "bluegrass",
+            "blues",
+            "blues rock",
+            "chicago blues",
+            "classic blues",
+            "classic hits",
+            "classic rock",
+            "country blues",
+            "hits",
+            "pop rock",
+            "rhythm and blues (1960s randb (eg. the rolling stones))",
+            "rock",
+            "soft rock",
+            "top hits"
+          ],
+          "votes": 543,
+          "bitrate": 320,
+          "codec": "MP3",
+          "hls": false,
+          "homepage": "https://www.jointil.com/"
+        },
+        {
+          "name": "#joint radio Beat Trance",
+          "stream": "https://jointil.com/stream-beat",
+          "uuid": "0324180d-596a-4b6b-a486-67e606e23d36",
+          "seed": false,
+          "tags": [
+            "ambient",
+            "edm",
+            "edm radioshows",
+            "electronic",
+            "electronic music",
+            "goa",
+            "goa trance",
+            "goa trance psychedelic trance",
+            "progressive psytrance",
+            "progressive trance",
+            "psytrance",
+            "trance"
+          ],
+          "votes": 264,
+          "bitrate": 320,
+          "codec": "MP3",
+          "hls": false,
+          "homepage": "https://www.jointil.com/"
+        },
+        {
+          "name": "#joint radio Reggae",
+          "stream": "https://jointil.com/stream-reggae",
+          "uuid": "9684cbbc-ea62-422c-bc93-20cf4ed4bac1",
+          "seed": false,
+          "tags": [
+            "dub",
+            "dub reggae",
+            "reggae",
+            "reggae pop",
+            "reggaeton",
+            "rocksteady",
+            "roots reggae",
+            "ska",
+            "smooth reggae"
+          ],
+          "votes": 240,
+          "bitrate": 320,
+          "codec": "MP3",
+          "hls": false,
+          "homepage": "https://www.jointil.com/"
+        },
+        {
+          "name": "GUITAR - J. WILLIAMS",
+          "stream": "http://drive.uber.radio/uber/crjohnwilliamsguitarist/icecast.audio",
+          "uuid": "d902048f-5fcf-445a-9494-77d74dee9e43",
+          "seed": false,
+          "tags": [],
+          "votes": 176,
+          "bitrate": 128,
+          "codec": "MP3",
+          "hls": false,
+          "homepage": "https://www.radio-addict.com/es/streaming/il"
+        },
+        {
+          "name": "קול פליי | kol-play",
+          "stream": "https://cdn.cybercdn.live/Kol_Barama/Music/icecast.audio",
+          "uuid": "712c3a1d-8387-4cf1-b354-4be74b153ee0",
+          "seed": false,
+          "tags": [],
+          "votes": 48,
+          "bitrate": 64,
+          "codec": "AAC+",
+          "hls": false,
+          "homepage": "https://kol-play.co.il/"
+        },
+        {
+          "name": "Kcm FM Channel 01 Live",
+          "stream": "https://media2.93fm.co.il/livemusic",
+          "uuid": "5b7a953b-98a6-4823-a9f9-3ad52aa2ed88",
+          "seed": false,
+          "tags": [
+            "hasidic",
+            "hebrew",
+            "israël",
+            "religious",
+            "yiddish"
+          ],
+          "votes": 48,
+          "bitrate": 128,
+          "codec": "AAC",
+          "hls": false,
+          "homepage": "https://kcm.fm/"
+        },
+        {
+          "name": "Mizrahit FM Best",
+          "stream": "http://rs.mizrahit.fm:7777/arabellavie",
+          "uuid": "abfcd777-432c-4c66-b622-d8582080e743",
+          "seed": false,
+          "tags": [],
+          "votes": 17,
+          "bitrate": 128,
+          "codec": "MP3",
+          "hls": false,
+          "homepage": "https://mizrahit.fm/"
+        },
+        {
+          "name": "104.5FM צפון",
+          "stream": "https://radio.streamgates.net/stream/1045fm",
+          "uuid": "36a1608a-e982-4000-82f4-eb6e279cf744",
+          "seed": false,
+          "tags": [],
+          "votes": 17,
+          "bitrate": 64,
+          "codec": "AAC+",
+          "hls": false,
+          "homepage": "https://1045fm.maariv.co.il/"
+        },
+        {
+          "name": "Radio Sahar",
+          "stream": "https://live.ecast.co.il/stream/sahar/stream",
+          "uuid": "e1be6105-91ef-4190-80ec-f93928837323",
+          "seed": false,
+          "tags": [
+            "hebrew",
+            "hip-hop",
+            "interviews",
+            "jazz",
+            "music",
+            "news",
+            "news talk",
+            "pop",
+            "psychedelic",
+            "psytrance",
+            "r&b",
+            "rap",
+            "rock",
+            "soul",
+            "trap"
+          ],
+          "votes": 13,
+          "bitrate": 320,
+          "codec": "MP3",
+          "hls": false,
+          "homepage": "https://radiosahar.co.il/"
+        },
+        {
+          "name": "Hedva Shaltiel",
+          "stream": "https://icecast.live/ivr",
+          "uuid": "0eb7423c-bb73-4772-8d12-ea602e875d9f",
+          "seed": false,
+          "tags": [],
+          "votes": 11,
+          "bitrate": 80,
+          "codec": "AAC",
+          "hls": false,
+          "homepage": "https://www.israelivoiceradio.co.il/"
+        },
+        {
+          "name": "Rak Musica",
+          "stream": "https://play.radioking.io/rak-musica/670240",
+          "uuid": "d81cba95-90cb-493c-b921-133ab74daa0f",
+          "seed": false,
+          "tags": [],
+          "votes": 11,
+          "bitrate": 64,
+          "codec": "AAC+",
+          "hls": false,
+          "homepage": "https://rak-musica.webnode.be/"
+        },
+        {
+          "name": "Radio Yasoo",
+          "stream": "http://radio-yasoo.ath.cx:7500/;",
+          "uuid": "37e8f5fa-23b1-4e8f-ba02-5323e5ead172",
+          "seed": false,
+          "tags": [
+            "greek folk",
+            "greek folk music",
+            "greek internet radio",
+            "greek music",
+            "greek traditional"
+          ],
+          "votes": 7,
+          "bitrate": 128,
+          "codec": "MP3",
+          "hls": false,
+          "homepage": "https://www.radio-yasoo.com/"
+        },
+        {
+          "name": "ברסלב פוריו: דעת רבנו",
+          "stream": "https://cast.breslevforyou.co.il/listen/radiobreslev/radio.mp3",
+          "uuid": "1ac65585-0443-4f95-8d67-f232ec5915a2",
+          "seed": false,
+          "tags": [
+            "jewish",
+            "music"
+          ],
+          "votes": 6,
+          "bitrate": 128,
+          "codec": "AAC",
+          "hls": false,
+          "homepage": "https://breslevforyou.co.il/"
+        },
+        {
+          "name": "ELI NISMAN",
+          "stream": "http://listen6.myradio24.com:9000/25715",
+          "uuid": "e7230036-0803-4aea-aa87-938db8b2d4eb",
+          "seed": false,
+          "tags": [],
+          "votes": 3,
+          "bitrate": 128,
+          "codec": "MP3",
+          "hls": false,
+          "homepage": "https://fmstream.org/eli-nisman-radio-live"
+        },
+        {
+          "name": "ברסלב פוריו: הלכות ודף יומי",
+          "stream": "https://cast.breslevforyou.co.il/listen/halachot/radio.mp3",
+          "uuid": "29632b43-283d-4156-8210-596b439c554c",
+          "seed": false,
+          "tags": [
+            "jewish",
+            "music"
+          ],
+          "votes": 3,
+          "bitrate": 128,
+          "codec": "AAC",
+          "hls": false,
+          "homepage": "https://breslevforyou.co.il/"
+        },
+        {
+          "name": "ברסלב פוריו: קצר וקולע",
+          "stream": "https://cast.breslevforyou.co.il/listen/shorts/radio.mp3",
+          "uuid": "25d7d098-ff20-4568-ad8a-c8e23e2ac18a",
+          "seed": false,
+          "tags": [
+            "jewish",
+            "music"
+          ],
+          "votes": 3,
+          "bitrate": 128,
+          "codec": "AAC",
+          "hls": false,
+          "homepage": "https://breslevforyou.co.il/"
+        },
+        {
+          "name": "ברסלב פוריו: תורה וזימרה",
+          "stream": "https://cast.breslevforyou.co.il/listen/music-toravezimra/radio.mp3",
+          "uuid": "38c81bbc-f8c3-4447-ae0e-ff8880017e04",
+          "seed": false,
+          "tags": [
+            "jewish",
+            "music",
+            "trance"
+          ],
+          "votes": 3,
+          "bitrate": 128,
+          "codec": "MP3",
+          "hls": false,
+          "homepage": "https://breslevforyou.co.il/"
+        },
+        {
+          "name": "ברסלב פוריו: ספרי ברסלב",
+          "stream": "https://cast.breslevforyou.co.il/listen/books/radio.mp3",
+          "uuid": "567c0d2b-e276-4db4-b4e1-0b0904c3d491",
+          "seed": false,
+          "tags": [
+            "books",
+            "jewish"
+          ],
+          "votes": 2,
+          "bitrate": 128,
+          "codec": "MP3",
+          "hls": false,
+          "homepage": "https://breslevforyou.co.il/"
+        },
+        {
+          "name": "????? ?????? | Prayer Radio",
+          "stream": "https://radio.sandrokob.com/stream",
+          "uuid": "f30e4028-6047-4cb3-ad6a-9073a89ef74f",
+          "seed": false,
+          "tags": [
+            "arabic",
+            "bible",
+            "christian",
+            "prayer",
+            "psalms",
+            "religious",
+            "worship"
+          ],
+          "votes": 0,
+          "bitrate": 128,
+          "codec": "MP3",
+          "hls": false,
+          "homepage": "https://radio.sandrokob.com/"
+        }
+      ]
+    }
+  }
+}

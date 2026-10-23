@@ -1,0 +1,61 @@
+# =============================================================================
+# .gitignore for RadioBox TV (musicTv) - Android / Jetpack Compose / Python
+# =============================================================================
+
+# Gradle & Build Artifacts
+.gradle/
+build/
+app/build/
+*/build/
+
+# Local & Environment Configuration
+local.properties
+.bundle/
+
+# Android Studio & IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+
+# Kotlin
+.kotlin/
+
+# Android Packaging & Build Outputs
+*.apk
+*.aab
+*.ap_
+*.dex
+*.class
+
+# Signing & Keystores
+*.jks
+*.keystore
+
+# Android Profiler & Native Builds
+captures/
+.externalNativeBuild/
+.cxx/
+
+# UI Dumps & Automated Inspection Artifacts
+ui_dump_*.xml
+
+# Python (Tools & Data Scraping)
+__pycache__/
+tools/__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+env/
+venv/
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Freebuff Local Workspace Configs
+.freebuff/project-id
